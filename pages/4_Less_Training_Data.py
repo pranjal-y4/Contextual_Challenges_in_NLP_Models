@@ -11,8 +11,8 @@ from sklearn.linear_model import LogisticRegression
 
 
 # Load data
-gender_bias_data = pd.read_csv("/Users/pranjalyadav/Desktop/gender_bias.csv")
-actual_data = pd.read_csv("/Users/pranjalyadav/Desktop/gender-bias_1.csv")
+gender_bias_data = pd.read_csv("gender_bias.csv")
+actual_data = pd.read_csv("gender-bias_1.csv")
 
 st.title("Less Training Data")
 st.subheader("Impact of Insufficient Data")
