@@ -56,9 +56,9 @@ threadpoolctl==3.2.0
 tokenizers==0.15.0
 toml==0.10.2
 toolz==0.11.1
-torch>=1.13.0,<2.0.0
-torchaudio==0.13.0
-torchvision==0.16.1  # Note: This version may be too old; consider upgrading to a newer version compatible with your environment.
+torch
+torchaudio
+torchvision
 tornado==6.3.3
 tqdm==4.66.1
 transformers==4.35.2
