@@ -36,7 +36,7 @@ def main():
     user_input = st.text_area("Enter a statement:", "")
 
     # Load the dataset
-    dataset_path = '/Users/pranjalyadav/Desktop/target.csv'
+    dataset_path = 'target.csv'
     dataset_encoding = "ISO-8859-1"  # Replace with the correct encoding
 
     # Add pagination to display a subset of the dataset
