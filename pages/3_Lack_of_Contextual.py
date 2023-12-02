@@ -32,7 +32,7 @@ def main():
         "biased responses in various conversational scenarios, as the models may not consider the broader context."
     )
 
-    conversation_path = '/Users/pranjalyadav/Desktop/Conversation.csv'
+    conversation_path = 'Conversation.csv'
     conversation_encoding = "utf-8"
     conversation_df = load_conversation(conversation_path, encoding=conversation_encoding)
 
