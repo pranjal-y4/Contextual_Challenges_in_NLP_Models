@@ -225,7 +225,7 @@ def main():
     # Load the dataset
     st.subheader("Original Dataset")
 
-    dataset_path = '/Users/pranjalyadav/Desktop/gender-bias_1.csv'
+    dataset_path = 'gender-bias_1.csv'
     dataset = load_dataset(dataset_path)
 
     # Display the dataset
