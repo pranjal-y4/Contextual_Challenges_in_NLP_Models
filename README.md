@@ -1,4 +1,3 @@
-# gender_bias_project
 title: Gender Bias
 emoji: 👁
 colorFrom: indigo
@@ -7,3 +6,4 @@ sdk: streamlit
 sdk_version: 1.29.0
 app_file: app.py
 pinned: false
+# gender_bias_project
