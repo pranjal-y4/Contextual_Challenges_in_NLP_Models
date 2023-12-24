@@ -64,7 +64,6 @@ def preprocess_data(df):
 
     return df
 
-
 def tfidf_vectorization(X_train, X_test):
     tfidf_vectorizer = TfidfVectorizer()
     X_train_tfidf = tfidf_vectorizer.fit_transform(X_train)
