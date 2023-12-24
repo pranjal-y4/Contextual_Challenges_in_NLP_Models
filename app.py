@@ -23,41 +23,53 @@ def detect_encoding(file_path):
     return result['encoding']
 
 def preprocess_data(df):
-    target_column = 'Gender_Bias'
+    # Create a columns layout for side-by-side display
+    col1, col2, col3 = st.columns(3)
 
     # Check for missing values
     missing_values = df.isnull().sum()
 
-    # Check for values other than 0 and 1 in 'gender_bias' column
-    invalid_values = df[target_column].loc[~df[target_column].isin([0, 1])]
+    # Check for invalid values in 'Gender_Bias' column
+    invalid_values_gender_bias = df['Gender_Bias'].loc[~df['Gender_Bias'].isin([0, 1])]
 
-    # Create a columns layout for side-by-side display
-    col1, col2 = st.columns(2)
+    # Check for invalid values in other columns (add more columns if needed)
+    invalid_values_other_columns = df.drop('Gender_Bias', axis=1).apply(lambda col: col.loc[~col.astype(str).str.match(r'^[01]$')])
 
     # Display missing values in the first column
     with col1:
         st.subheader("Missing Values:")
         st.write(missing_values)
 
-    # Display invalid values in the second column
+    # Display invalid values in 'Gender_Bias' column in the second column
     with col2:
-        st.subheader(f"Invalid Values in '{target_column}' column:")
-        st.write(invalid_values)
+        st.subheader(f"Invalid Values in 'Gender_Bias' column:")
+        st.write(invalid_values_gender_bias)
 
-    # Replace missing values and invalid values with the mode of 'gender_bias'
-    mode_gender_bias = df[target_column].mode().values[0]
-    df[target_column].fillna(mode_gender_bias, inplace=True)
+    # Display invalid values in other columns in the third column
+    with col3:
+        st.subheader("Invalid Values in Other Columns:")
+        st.write(invalid_values_other_columns)
 
-    if not invalid_values.empty:
-        df[target_column].replace({val: mode_gender_bias for val in invalid_values}, inplace=True)
+    # Replace missing values and invalid values with appropriate values
+    # (replace with mode for simplicity, modify as needed)
+    mode_gender_bias = df['Gender_Bias'].mode().values[0]
+    df['Gender_Bias'].fillna(mode_gender_bias, inplace=True)
 
+    if not invalid_values_gender_bias.empty:
+        df['Gender_Bias'].replace({val: mode_gender_bias for val in invalid_values_gender_bias}, inplace=True)
+
+    # Replace missing values in other columns (modify as needed)
+    for col in df.drop('Gender_Bias', axis=1).columns:
+        mode_value = df[col].mode().values[0]
+        df[col].fillna(mode_value, inplace=True)
 
     # Center the subheading
     st.markdown(
-        f"<div style='text-align: center;'>Values in '{target_column}' column have been replaced with the mode ({mode_gender_bias}).</div>",
+        f"<div style='text-align: center;'>Values have been replaced with the mode where applicable.</div>",
         unsafe_allow_html=True
     )
     return df
+
 
 
 def tfidf_vectorization(X_train, X_test):
