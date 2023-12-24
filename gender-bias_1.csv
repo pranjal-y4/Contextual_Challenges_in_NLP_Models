@@ -1188,6 +1188,125 @@ Sentence,Gender_Bias,Type
 "The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
 "The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
 "The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's a talented nurse.",1,Occupational Bias
+"He's a skilled engineer.",1,Occupational Bias
+"They're an excellent teacher.",0,Not Applicable
+"The proficient programmer efficiently coded the software.",0,Not Applicable
+"Exploring the ancient ruins, she marveled at the history.",0,Not Applicable
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She's a successful businesswoman, managing a thriving company.",1,Role Stereotyping
+"The dedicated firefighter bravely rescued people from the burning building.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"Teaching is a nurturing profession, so she's a great fit for it.",1,Occupational Bias
+"He's a software engineer; coding must come naturally to him.",1,Occupational Bias
+"She's a loving mother, ensuring her children are well-cared for.",1,Maternal Bias
+"He's an involved father, actively participating in parenting duties.",0,Not Applicable
+"He'll lead the meeting as the chairman of the committee.",1,Language Bias
+"They'll preside over the meeting as the chairperson of the committee.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's an accomplished scientist, making significant contributions to research.",0,Not Applicable
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"She took parental leave to spend quality time with her newborn.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"They both demonstrated confidence and assertiveness in the negotiation.",0,Not Applicable
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's an outstanding carpenter.",1,Occupational Bias
+"He's a compassionate nurse.",1,Occupational Bias
+"They're a skilled software developer.",0,Not Applicable
+"The efficient project manager successfully led the team.",0,Not Applicable
+"Enjoying the beautiful scenery, they marveled at the natural wonders.",0,Not Applicable
+"He's the primary caregiver, managing household responsibilities.",1,Role Stereotyping
+"She's a skilled construction worker, excelling in her trade.",1,Occupational Bias
+"The skilled paramedic provided life-saving assistance at the scene.",0,Not Applicable
+"Engineering requires precision, so he's a great fit for the role.",1,Occupational Bias
+"She's a talented mathematician, contributing to groundbreaking research.",0,Not Applicable
+"He's the head of the household, making crucial decisions for the family.",1,Role Stereotyping
+"The language used is gender-neutral, promoting inclusivity.",0,Not Applicable
+"She's a skilled mechanic, diagnosing and fixing complex issues.",1,Occupational Bias
+"He's a nurturing childcare provider, fostering a supportive environment.",1,Occupational Bias
+"The leader of the organization will address the team.",0,Not Applicable
+"Assuming that only mothers should take parental leave perpetuates parental leave bias.",6,Invalid Data
+"The confident and assertive manager inspired the team.",0,Not Applicable
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"The teacher is caring and nurturing; she's perfect for the role.",1,Occupational Bias
+"He's too emotional to be a CEO.",1,Invalid Data
+"She's a competent CEO, leading the company with strategic vision.",0,Not Applicable
+"He's assertive; she's bossy.",1,Double Standards
+"The talented artist showcased their paintings at the exhibition.",0,Not Applicable
+"He's a skilled carpenter; woodworking comes naturally to him.",1,Occupational Bias
+"She's a talented engineer, excelling in her field.",0,Not Applicable
+"He's a compassionate social worker, dedicated to helping others.",0,Not Applicable
+"The skilled pilot safely landed the plane during challenging weather.",0,Not Applicable
+"The proficient chef prepared a delectable meal for the guests.",0,Not Applicable
+"The talented musician played a mesmerizing piece on the violin.",0,Not Applicable
+"The experienced firefighter bravely battled the raging inferno.",0,Not Applicable
+"She's an exceptional scientist, making groundbreaking discoveries.",0,Not Applicable
+"He's an involved parent, sharing parenting duties equally.",0,Not Applicable
+"The dedicated police officer maintained law and order with diligence.",0,Not Applicable
+"The skilled artist created a stunning sculpture that captivated onlookers.",0,Not Applicable
+"He's a compassionate nurse, providing excellent patient care.",1,Occupational Bias
+"She's a skilled engineer, designing innovative solutions.",0,Not Applicable
+"He's the head of the committee; he'll make the final decision.",1,Language Bias
+"They'll lead the committee as co-chairs.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's an accomplished scientist, making significant contributions to research.",0,Not Applicable
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"She took parental leave to spend quality time with her newborn.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"They both demonstrated confidence and assertiveness in the negotiation.",0,Not Applicable
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's an outstanding carpenter.",1,Occupational Bias
+"He's a compassionate nurse.",1,Occupational Bias
+"They're a skilled software developer.",0,Not Applicable
+"The efficient project manager successfully led the team.",0,Not Applicable
+"Enjoying the beautiful scenery, they marveled at the natural wonders.",0,Not Applicable
+"He's the primary caregiver, managing household responsibilities.",1,Role Stereotyping
+"She's a skilled construction worker, excelling in her trade.",1,Occupational Bias
+"The skilled paramedic provided life-saving assistance at the scene.",0,Not Applicable
+"Engineering requires precision, so he's a great fit for the role.",1,Occupational Bias
+"She's a talented mathematician, contributing to groundbreaking research.",0,Not Applicable
+"He's the head of the household, making crucial decisions for the family.",1,Role Stereotyping
+"The language used is gender-neutral, promoting inclusivity.",0,Not Applicable
+"She's a skilled mechanic, diagnosing and fixing complex issues.",1,Occupational Bias
+"He's a nurturing childcare provider, fostering a supportive environment.",1,Occupational Bias
+"The leader of the organization will address the team.",0,Not Applicable
+"Assuming that only mothers should take parental leave perpetuates parental leave bias.",6,Invalid Data
+"The confident and assertive manager inspired the team.",0,Not Applicable
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"The teacher is caring and nurturing; she's perfect for the role.",1,Occupational Bias
+"He's too emotional to be a CEO.",1,Invalid Data
+"She's a competent CEO, leading the company with strategic vision.",0,Not Applicable
+"He's assertive; she's bossy.",1,Double Standards
+"The talented artist showcased their paintings at the exhibition.",0,Not Applicable
+"He's a skilled carpenter; woodworking comes naturally to him.",1,Occupational Bias
+"She's a talented engineer, excelling in her field.",0,Not Applicable
+"He's a compassionate social worker, dedicated to helping others.",0,Not Applicable
+"The skilled pilot safely landed the plane during challenging weather.",0,Not Applicable
+"The proficient chef prepared a delectable meal for the guests.",0,Not Applicable
+"The talented musician played a mesmerizing piece on the violin.",0,Not Applicable
+"The experienced firefighter bravely battled the raging inferno.",0,Not Applicable
+"She's an exceptional scientist, making groundbreaking discoveries.",0,Not Applicable
+"He's an involved parent, sharing parenting duties equally.",0,Not Applicable
+"The dedicated police officer maintained law and order with diligence.",0,Not Applicable
+"The skilled artist created a stunning sculpture that captivated onlookers.",0,Not Applicable
+
+
 
 
 
