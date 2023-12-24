@@ -27,12 +27,13 @@ def preprocess_data(df):
     st.subheader("Dataset Information:")
     dataset_info = pd.DataFrame({
         'Number of Rows': [df.shape[0]],
-        'Missing Values': [df.isnull().any().any()]
+        'Missing Values': [df.isnull().any().any()],
+        'Columns with Missing Values': [', '.join(df.columns[df.isnull().any()])]
     })
     st.write(dataset_info)
 
     # Check for invalid values in 'Gender_Bias' column
-    invalid_values_gender_bias = df['Gender_Bias'].loc[~df['Gender_Bias'].isin([0, 1])]
+    invalid_values_gender_bias = df.loc[~df['Gender_Bias'].isin([0, 1])]
 
     # Display invalid values in 'Gender_Bias' column
     st.subheader(f"Invalid Values in 'Gender_Bias' column:")
@@ -53,15 +54,16 @@ def preprocess_data(df):
 
     # Display the shuffled and processed data
     st.subheader("Shuffled and Processed Data:")
-    st.write(df)  # Display just one row after shuffling
+    st.write(df)
 
     # Center the subheading
     st.markdown(
-        f"<div style='text-align: center;'>Rows have been shuffled and missing values are dropped.</div>",
+        f"<div style='text-align: center;'>Rows have been shuffled, missing values are dropped, and invalid values in 'Gender_Bias' column are displayed.</div>",
         unsafe_allow_html=True
     )
 
     return df
+
 
 def tfidf_vectorization(X_train, X_test):
     tfidf_vectorizer = TfidfVectorizer()
