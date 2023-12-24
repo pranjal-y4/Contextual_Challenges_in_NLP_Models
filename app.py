@@ -53,11 +53,11 @@ def preprocess_data(df):
 
     # Display the shuffled and processed data
     st.subheader("Shuffled and Processed Data:")
-    st.write(df.head(1))  # Display just one row after shuffling
+    st.write(df)  # Display just one row after shuffling
 
     # Center the subheading
     st.markdown(
-        f"<div style='text-align: center;'>Values have been replaced with the mode where applicable, and rows have been shuffled.</div>",
+        f"<div style='text-align: center;'>Rows have been shuffled and missing values are dropped.</div>",
         unsafe_allow_html=True
     )
 
