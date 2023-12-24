@@ -23,6 +23,14 @@ def detect_encoding(file_path):
     return result['encoding']
 
 def preprocess_data(df):
+    # Display general information about the dataset
+    st.subheader("Dataset Information:")
+    dataset_info = pd.DataFrame({
+        'Number of Rows': [df.shape[0]],
+        'Missing Values': [df.isnull().any().any()]
+    })
+    st.write(dataset_info)
+
     # Check for invalid values in 'Gender_Bias' column
     invalid_values_gender_bias = df['Gender_Bias'].loc[~df['Gender_Bias'].isin([0, 1])]
 
@@ -45,7 +53,7 @@ def preprocess_data(df):
 
     # Display the shuffled and processed data
     st.subheader("Shuffled and Processed Data:")
-    st.write(df)
+    st.write(df.head(1))  # Display just one row after shuffling
 
     # Center the subheading
     st.markdown(
