@@ -1,14 +1,28 @@
 import streamlit as st
 import openai
-from googletrans import Translator
+import googletrans
+from googletrans import Translator as GoogleTranslator
+import time
+import typing
+import httpcore
 
 openai.api_key = "my_key"
 
-class CustomTranslator:
-    proxies = None
+class CustomTranslator(GoogleTranslator):
+    def __init__(self, service_urls=None, user_agent=None):
+        super().__init__(service_urls, user_agent)
+        self.client = httpcore.SyncHTTPTransport()
+
+# Define the OpenAI API rate limit parameters
+RATE_LIMIT_TPM = 150000
+RATE_LIMIT_RPM = 3
+RATE_LIMIT_RPD = 200
+
+# Track the last time an API call was made
+last_api_call_time = time.time()
 
 def translate_text(input_text, target_language="hi"):
-    translator = Translator()
+    translator = CustomTranslator()
 
     # Translate the input text to the target language
     translated_text = translator.translate(input_text, dest=target_language).text
@@ -16,11 +30,22 @@ def translate_text(input_text, target_language="hi"):
     return translated_text
 
 def detect_bias(prompt):
+    global last_api_call_time
+
+    # Check if the rate limit is reached, wait if necessary
+    wait_time = 60 / RATE_LIMIT_RPM  # Convert RPM to seconds
+    elapsed_time = time.time() - last_api_call_time
+    if elapsed_time < wait_time:
+        time.sleep(wait_time - elapsed_time)
+
     response = openai.Completion.create(
         engine="text-davinci-002",
         prompt=prompt,
         max_tokens=100
     )
+
+    # Update the last API call time
+    last_api_call_time = time.time()
 
     return response.choices[0].text.strip()
 
@@ -68,3 +93,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
