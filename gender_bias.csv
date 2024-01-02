@@ -1,0 +1,367 @@
+Sentence,Gender_Bias,Type
+"She's a talented nurse.",1,Occupational Bias
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"Chairman of the committee.",1,Language Bias
+"She's too attractive to be an engineer.",1,Appearance and Beauty Bias
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"He's assertive; she's bossy.",1,Double Standards
+"They are exploring the vibrant cityscape of Tokyo, trying local delicacies and embracing the bustling energy.",0,
+"Discovering the beauty of the Amazon rainforest, he marveled at the diverse flora and fauna.",1,Occupational Bias
+"Wandering through ancient temples, the traveler uncovered the rich history of Angkor Wat.",0,
+"On the adrenaline-pumping adventure, they zip-lined through the dense Costa Rican rainforest.",1,Double Standards
+"After a day of museum hopping, she enjoyed a quiet evening in the charming streets of Paris.",0,
+"The group of friends embarked on a road trip, capturing memories and laughter along the way.",1,Role Stereotyping
+"Navigating the narrow alleys of Venice, he stumbled upon hidden cafes and unique boutiques.",0,
+"Witnessing the awe-inspiring beauty of the Northern Lights, she felt a deep connection with nature.",1,Maternal Bias
+"Exploring the futuristic cityscape of Dubai, he marveled at the architectural wonders.",0,
+"Amidst the serene landscapes of New Zealand, they embarked on a soul-enriching hiking journey.",1,Occupational Bias
+"The software developer's coding expertise streamlined processes, contributing to the overall efficiency of the software development life cycle.",0,
+"Receptionist at the front desk welcomed guests with a warm smile.",1,Occupational Bias
+"The determined firefighter rescued people from the burning building.",0,
+"He's an excellent dancer.",1,Double Standards
+"The skilled mechanic repaired the car efficiently.",0,
+"The librarian organized the books on the shelves with precision.",1,Occupational Bias
+"The confident leader guided the team through challenging projects.",0,
+"The compassionate social worker dedicated her life to helping others.",1,Occupational Bias
+"The adventurous pilot explored new routes and destinations.",0,
+"The talented musician composed a beautiful symphony.",1,Occupational Bias
+"The innovative scientist made groundbreaking discoveries in the field of astronomy.",0,
+"The meticulous architect designed the stunning building.",1,Occupational Bias
+"The dedicated police officer ensured the safety of the community.",0,
+"The creative artist painted vibrant masterpieces.",1,Occupational Bias
+"The knowledgeable professor imparted wisdom to eager students.",0,
+"The skillful chef prepared a delicious gourmet meal.",1,Occupational Bias
+"The efficient IT specialist resolved technical issues promptly.",0,
+"The experienced journalist reported on important global events.",1,Occupational Bias
+"The dedicated construction worker built sturdy structures with precision.",0,
+"The insightful psychologist provided support and guidance to patients.",1,Occupational Bias
+"The skilled electrician repaired faulty wiring in the building.",0,
+"The resourceful farmer cultivated a thriving crop.",1,Occupational Bias
+"The determined athlete broke records in the track and field events.",0,
+"The charismatic actor delivered a captivating performance.",1,Occupational Bias
+"The meticulous dentist ensured the oral health of patients.",0,
+"The talented graphic designer created visually stunning designs.",1,Occupational Bias
+"The skilled plumber fixed plumbing issues efficiently.",0,
+"The experienced veterinarian cared for a variety of animals.",1,Occupational Bias
+"The dedicated postal worker delivered mail promptly.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture.",0,
+"The knowledgeable historian researched and documented past events.",1,Occupational Bias
+"The organized secretary managed administrative tasks efficiently.",0,
+"The dedicated nurse provided compassionate care to patients.",1,Occupational Bias
+"The innovative software engineer developed cutting-edge applications.",0,
+"The skilled welder fabricated metal structures with precision.",1,Occupational Bias
+"The diligent janitor ensured cleanliness and order in the building.",0,
+"The insightful economist analyzed economic trends and made predictions.",1,Occupational Bias
+"The efficient customer service representative addressed inquiries promptly.",0,
+"The talented makeup artist created stunning looks for the runway.",1,Occupational Bias
+"The skilled forklift operator managed warehouse logistics with precision.",0,
+"The experienced geologist studied and analyzed geological formations.",1,Occupational Bias
+"The dedicated retail associate assisted customers with their purchases.",0,
+"The compassionate therapist provided support to individuals facing challenges.",1,Occupational Bias
+"The skilled truck driver transported goods safely across long distances.",0,
+"The visionary entrepreneur founded successful businesses.",1,Occupational Bias
+"The diligent security guard ensured the safety of the premises.",0,
+"The creative fashion designer showcased innovative designs on the runway.",1,Occupational Bias
+"The efficient data analyst interpreted complex data sets.",0,
+"The talented hairdresser created stylish looks for clients.",1,Occupational Bias
+"The skilled machinist operated machinery with precision.",0,
+"The experienced meteorologist studied and predicted weather patterns.",1,Occupational Bias
+"The dedicated teacher inspired and educated students.",0,
+"The insightful urban planner designed sustainable and functional city spaces.",1,Occupational Bias
+"The organized administrative assistant managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The compassionate veterinarian cared for the health of animals.",1,Occupational Bias
+"The skilled locksmith repaired and installed locks with precision.",0,
+"The insightful political scientist analyzed and interpreted political trends.",1,Occupational Bias
+"The organized executive assistant managed tasks for the executive team efficiently.",0,
+"The passionate human rights activist worked to promote justice and equality.",1,Occupational Bias
+"The skilled auto mechanic repaired vehicles with expertise.",0,
+"The knowledgeable astronomer studied celestial bodies and cosmic phenomena.",1,Occupational Bias
+"The dedicated customer service representative addressed inquiries with empathy.",0,
+"The talented choreographer created dynamic dance routines.",1,Occupational Bias
+"The efficient warehouse supervisor managed logistics with precision.",0,
+"The experienced archaeologist uncovered and documented ancient civilizations.",1,Occupational Bias
+"The dedicated receptionist ensured a welcoming atmosphere for visitors.",0,
+"The innovative renewable energy engineer developed sustainable solutions.",1,Occupational Bias
+"The meticulous quality control inspector ensured product standards were met.",0,
+"The skilled exterminator addressed pest control issues with precision.",1,Occupational Bias
+"The insightful market researcher analyzed consumer trends and preferences.",0,
+"The passionate animal rights activist worked to protect and advocate for animals.",1,Occupational Bias
+"The efficient call center operator addressed customer concerns with professionalism.",0,
+"The talented glassblower created intricate and artistic glass designs.",1,Occupational Bias
+"The skilled HVAC technician maintained and repaired heating and cooling systems.",0,
+"The experienced ornithologist studied and documented bird species.",1,Occupational Bias
+"The dedicated front desk receptionist managed incoming calls and appointments efficiently.",0,
+"The innovative robotics engineer developed cutting-edge robotic systems.",1,Occupational Bias
+"The meticulous warehouse packer ensured accurate packaging and shipment of goods.",0,
+"The skilled landscape architect designed aesthetically pleasing outdoor spaces.",1,Occupational Bias
+"The insightful data scientist analyzed and interpreted complex data sets.",0,
+"The passionate mental health counselor provided support to individuals facing challenges.",1,Occupational Bias
+"The efficient delivery courier ensured timely and accurate deliveries to customers.",0,
+"The talented puppeteer created engaging performances with intricate puppets.",1,Occupational Bias
+"The skilled CNC machinist operated machinery with precision.",0,
+"The experienced volcanologist studied and monitored volcanic activity.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with efficiency.",0,
+"The innovative geneticist made advancements in understanding genetic diseases.",1,Occupational Bias
+"The meticulous construction project manager ensured projects were completed on time.",0,
+"The passionate LGBTQ+ rights advocate worked to promote inclusivity and equality.",1,Role Stereotyping
+"The efficient warehouse forklift operator managed inventory with precision.",0,
+"The talented graffiti artist created vibrant and impactful street art.",1,Occupational Bias
+"The skilled automotive technician repaired and maintained vehicles with expertise.",0,
+"The experienced entomologist studied and classified insect species.",1,Occupational Bias
+"The dedicated office assistant managed administrative tasks with efficiency.",0,
+"The insightful nutritionist analyzed and advised on dietary choices.",1,Occupational Bias
+"The passionate civil rights advocate worked to eliminate discrimination and injustice.",0,
+"The skilled tax accountant managed financial records and ensured compliance.",1,Occupational Bias
+"The innovative machine learning engineer developed advanced algorithms.",0,
+"The talented stained glass artist created intricate and colorful glass designs.",1,Occupational Bias
+"The meticulous laboratory technician ensured accurate testing and analysis.",0,
+"The experienced marine ecologist studied and preserved marine ecosystems.",1,Occupational Bias
+"The dedicated retail sales associate assisted customers with their purchases.",0,
+"The passionate disability rights advocate worked to promote accessibility and inclusion.",1,Role Stereotyping
+"The efficient warehouse manager oversaw logistics and inventory control.",0,
+"The talented improv comedian entertained audiences with spontaneous humor.",1,Occupational Bias
+"The skilled HVAC installer maintained and installed heating and cooling systems.",0,
+"The experienced oceanographer studied and documented ocean currents.",1,Occupational Bias
+"The dedicated office receptionist managed calls and appointments with efficiency.",0,
+"The innovative renewable energy scientist developed sustainable solutions.",1,Occupational Bias
+"The meticulous quality assurance analyst ensured product quality met standards.",0,
+"The skilled pest control technician addressed pest issues with precision.",1,Occupational Bias
+"The insightful market analyst analyzed market trends and provided strategic insights.",0,
+"The passionate environmental conservationist worked to protect natural habitats.",1,Occupational Bias
+"The efficient customer support representative addressed inquiries with professionalism.",0,
+"The talented makeup artist created stunning looks for various events.",1,Occupational Bias
+"The skilled forklift operator managed warehouse operations with precision.",0,
+"The experienced geographer studied and mapped geographical features.",1,Occupational Bias
+"The dedicated customer service representative addressed issues with empathy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The dedicated nurse provided compassionate care to patients.",1,Occupational Bias
+"The innovative software engineer developed cutting-edge applications.",0,
+"The skilled welder fabricated metal structures with precision.",1,Occupational Bias
+"The diligent janitor ensured cleanliness and order in the building.",0,
+"The insightful economist analyzed economic trends and made predictions.",1,Occupational Bias
+"The efficient customer service representative addressed inquiries promptly.",0,
+"The talented makeup artist created stunning looks for the runway.",1,Occupational Bias
+"The skilled plumber fixed plumbing issues efficiently.",0,
+"The experienced veterinarian cared for a variety of animals.",1,Occupational Bias
+"The dedicated postal worker delivered mail promptly.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture.",0,
+"The knowledgeable historian researched and documented past events.",1,Occupational Bias
+"The organized administrative assistant managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"She must be emotional; after all, she's a woman.",1,Role Stereotyping
+"He's a nurse; he must be very caring and empathetic.",1,Role Stereotyping
+"She'll likely take a break from work for family reasons; it's expected of women.",1,Maternal Bias
+"He's the chairman of the board; he'll make the final decision.",1,Language Bias
+"Being a model is all about appearance; she should be attractive.",1,Appearance and Beauty Bias
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's a talented nurse.",1,Occupational Bias
+"He's a skilled teacher.",1,Occupational Bias
+"The engineer efficiently designed the new software.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"He's the provider, ensuring financial stability for the family.",1,Role Stereotyping
+"She's responsible for the household chores; it's her duty as a woman.",1,Role Stereotyping
+"He's the decision-maker in the relationship; she just follows along.",1,Role Stereotyping
+"She's the emotional one; he doesn't understand feelings.",1,Role Stereotyping
+"As the man of the house, he takes care of all major responsibilities.",1,Role Stereotyping
+"In their relationship, she's expected to be nurturing and supportive.",1,Role Stereotyping
+"He's the handyman, fixing things around the house.",1,Role Stereotyping
+"As the wife, she manages the family budget and expenses.",1,Role Stereotyping
+"In their dynamic, he's the leader, and she follows his decisions.",1,Role Stereotyping
+"She's responsible for the children's education and well-being.",1,Role Stereotyping
+"He's the breadwinner, while she takes care of the home and children.",1,Role Stereotyping
+"As a woman, she naturally excels in caregiving roles.",1,Role Stereotyping
+"His career comes first; she should prioritize supporting him.",1,Role Stereotyping
+"She's expected to be the peacemaker in family conflicts.",1,Role Stereotyping
+"He's the protector; she relies on him for safety.",1,Role Stereotyping
+"In their relationship, he's the problem solver; she turns to him for solutions.",1,Role Stereotyping
+"As the man, he's naturally assertive and takes charge.",1,Role Stereotyping
+"She's the one who plans family events and gatherings.",1,Role Stereotyping
+"He's the leader in their social circle, making decisions for the group.",1,Role Stereotyping
+"In their dynamic, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-focused.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"Being a mother, she might prioritize family over career.",1,Maternal Bias
+"He'll focus on his career; that's a father's responsibility.",1,Maternal Bias
+"As a mom, she'll likely take a break from work for family reasons.",1,Maternal Bias
+"It's expected that she'll be more nurturing as a mother.",1,Maternal Bias
+"Since she's a mother, she may not be interested in a demanding job.",1,Maternal Bias
+"He might not take on parenting duties; that's typically a mother's role.",1,Maternal Bias
+"As a parent, she'll likely choose a flexible job for better work-life balance.",1,Maternal Bias
+"Being a mom, she may not want to travel extensively for work.",1,Maternal Bias
+"He won't prioritize family events; that's not a mother's concern.",1,Maternal Bias
+"Assuming she'll handle childcare, given that she's a mother.",1,Maternal Bias
+"As a mother, she may struggle to balance work and family life.",1,Maternal Bias
+"Considering she has kids, she'll likely avoid taking on additional responsibilities at work.",1,Maternal Bias
+"He may not take paternity leave; that's typically for mothers.",1,Maternal Bias
+"She might not be interested in career advancement; mothers often focus on family.",1,Maternal Bias
+"Being a mother, she might not be suitable for demanding roles.",1,Maternal Bias
+"He may not attend work events; family responsibilities usually fall on mothers.",1,Maternal Bias
+"Assuming she'll take a part-time job to manage family commitments as a mother.",1,Maternal Bias
+"Since she's a mother, she may not be available for business trips.",1,Maternal Bias
+"He won't take parental leave; that's typically for mothers.",1,Maternal Bias
+"She might avoid work-related travel; mothers often prioritize being at home.",1,Maternal Bias
+"An entrepreneur takes risks; he builds a business from the ground up.",1,Language Bias
+"The developer wrote the code; she solved complex problems.",1,Language Bias
+"The governor implemented policies; he shaped the state's future.",1,Language Bias
+"She's the mayor; she leads the city with vision.",1,Language Bias
+"The editor reviewed the manuscript; he made valuable revisions.",1,Language Bias
+"A judge's role is crucial; he interprets and upholds the law.",1,Language Bias
+"The musician composed the symphony; she demonstrated artistic brilliance.",1,Language Bias
+"He's the CEO; he oversees the company's operations.",1,Language Bias
+"The architect designed the building; she created a masterpiece.",1,Language Bias
+"The scientist conducted experiments; he advanced our understanding of biology.",1,Language Bias
+"She's the manager; she oversees the team's projects.",1,Language Bias
+"The engineer designed the innovative technology; he revolutionized the industry.",1,Language Bias
+"The captain navigated the ship; he ensured a safe voyage.",1,Language Bias
+"A surgeon performs delicate procedures; he saves lives.",1,Language Bias
+"The conductor led the orchestra; she directed a flawless performance.",1,Language Bias
+"He's the chairman of the board; he makes strategic decisions.",1,Language Bias
+"The farmer cultivates the land; he provides essential resources.",1,Language Bias
+"She's the CEO; she leads the company with vision.",1,Language Bias
+"The professor conducted research; he published influential papers.",1,Language Bias
+"The chef prepared the exquisite dish; he showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; he influences government policies.",1,Language Bias
+"The journalist reported on the events; she delivered accurate news.",1,Language Bias
+"A doctor makes critical decisions; she diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; she expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; she makes strategic decisions.",1,Language Bias
+"He's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; he implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; he represents clients.",1,Language Bias
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's too handsome to be a programmer.",1,Appearance and Beauty Bias
+"The model is too beautiful to work in IT.",1,Appearance and Beauty Bias
+"She's too pretty to be an engineer.",1,Appearance and Beauty Bias
+"He's too good-looking to be a doctor.",1,Appearance and Beauty Bias
+"The attractive receptionist can't be a software developer.",1,Appearance and Beauty Bias
+"She's too glamorous to be a mathematician.",1,Appearance and Beauty Bias
+"He's too suave to be a physicist.",1,Appearance and Beauty Bias
+"The elegant fashionista can't be a mechanical engineer.",1,Appearance and Beauty Bias
+"He's too stylish to work in a research lab.",1,Appearance and Beauty Bias
+"The stunning actress must not have a technical job.",1,Appearance and Beauty Bias
+"He's too charming to be a data analyst.",1,Appearance and Beauty Bias
+"The handsome guy is probably not a computer scientist.",1,Appearance and Beauty Bias
+"She's too attractive for a career in technology.",1,Appearance and Beauty Bias
+"He's too good-looking to be a software engineer.",1,Appearance and Beauty Bias
+"The fashionable woman must be in a creative field, not engineering.",1,Appearance and Beauty Bias
+"He's too handsome for a serious job like a scientist.",1,Appearance and Beauty Bias
+"The makeup artist is too beautiful to work in IT.",1,Appearance and Beauty Bias
+"She's too glamorous to be a software developer.",1,Appearance and Beauty Bias
+"He's too attractive to be a physicist.",1,Appearance and Beauty Bias
+"The stylish designer must not be involved in complex technical work.",1,Appearance and Beauty Bias
+"She's too pretty to be an architect.",1,Appearance and Beauty Bias
+"He's too handsome to be a robotics engineer.",1,Appearance and Beauty Bias
+"The beautiful model can't possibly have a career in data analysis.",1,Appearance and Beauty Bias
+"She's too attractive to work in a scientific research lab.",1,Appearance and Beauty Bias
+"He's too suave to be a computer programmer.",1,Appearance and Beauty Bias
+"The charming guy must be in a field other than engineering.",1,Appearance and Beauty Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He's assertive and she's bossy.",1,Double Standards
+"She's confident and he's arrogant.",1,Double Standards
+"He's determined and she's stubborn.",1,Double Standards
+"She's independent and he's rebellious.",1,Double Standards
+"He's a leader and she's controlling.",1,Double Standards
+"She's ambitious and he's pushy.",1,Double Standards
+"He's experienced and she's set in her ways.",1,Double Standards
+"She's focused and he's obsessive.",1,Double Standards
+"He's passionate and she's emotional.",1,Double Standards
+"She's detail-oriented and he's nitpicky.",1,Double Standards
+"He's knowledgeable and she's opinionated.",1,Double Standards
+"She's decisive and he's bossy.",1,Double Standards
+"He's confident and she's self-centered.",1,Double Standards
+"She's assertive and he's domineering.",1,Double Standards
+"The talented artist showcased their paintings at the exhibition.",0,Not Applicable
+"He's a skilled carpenter; woodworking comes naturally to him.",1,Occupational Bias
+"She's a talented engineer, excelling in her field.",0,Not Applicable
+"He's a compassionate social worker, dedicated to helping others.",0,Not Applicable
+"The skilled pilot safely landed the plane during challenging weather.",0,Not Applicable
+"The proficient chef prepared a delectable meal for the guests.",0,Not Applicable
