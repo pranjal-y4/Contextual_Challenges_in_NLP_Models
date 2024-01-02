@@ -48,7 +48,7 @@ def detect_bias(prompt):
 
     return response.choices[0].text.strip()
 
-def main():
+async def main():
     # Set the title and subheading
     st.title("Multilingual Model")
     st.subheader("Introduction")
@@ -73,16 +73,15 @@ def main():
     # Check if the user has entered a sentence
     if user_input:
         # Get the translation for each language
-        translations = {
-            "Hindi": st.experimental_rerun(await translate_text(user_input, "hi")),
-            "Marathi": st.experimental_rerun(await translate_text(user_input, "mr")),
-            "Gujarati": st.experimental_rerun(await translate_text(user_input, "gu")),
-            "Spanish": st.experimental_rerun(await translate_text(user_input, "es")),
-        }
+        translated_texts = await st.experimental_asyncio.staggered_transform(
+            ["Hindi", "Marathi", "Gujarati", "Spanish"],
+            translate_text,
+            user_input
+        )
 
         # Display the translations
         st.write("Input Text:", user_input)
-        for lang, translated_text in translations.items():
+        for lang, translated_text in zip(["Hindi", "Marathi", "Gujarati", "Spanish"], translated_texts):
             st.write(f"Translated Text ({lang}): {translated_text}")
 
             # Detect bias in the translated sentence
@@ -91,7 +90,10 @@ def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    main()
+    st.experimental_rerun()
+    st.experimental_asyncio.staggered_transform
+    asyncio.run(main())
+
 
 
 
