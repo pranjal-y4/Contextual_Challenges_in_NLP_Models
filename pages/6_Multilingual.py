@@ -2,9 +2,11 @@ import streamlit as st
 from googletrans import Translator
 import openai
 import time
-
+import typing
+from httpx import Timeout
 
 openai.api_key = "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"
+
 # Define the OpenAI API rate limit parameters
 RATE_LIMIT_TPM = 150000
 RATE_LIMIT_RPM = 3
@@ -54,7 +56,7 @@ def main():
         f"<div style='text-align: left;'><b> Aim : This code implements a simple multilingual model using Streamlit and the Google Translate API. The goal is to demonstrate a basic translation capability between English and Hindi, as well as other languages. The model uses the Googletrans library for translation.</div>",
         unsafe_allow_html=True
     )
-    
+
     st.markdown(
         f"<div style='text-align: left;'><br>[ Reference : hi = Hindi-India , es = Español-Spanish , mr = Marathi-India , gu = Gujrati-India ]<br> <br></div>",
         unsafe_allow_html=True
