@@ -3,13 +3,12 @@ from googletrans import Translator
 import openai
 import time
 import typing
-from httpx import Timeout, AsyncClient
+from httpx import AsyncClient
 
 openai.api_key = "my_key"
 
 class Translator:
-    proxies: typing.Dict[str, httpx.SyncHTTPTransport] = None
-
+    proxies: typing.Dict[str, AsyncClient] = None
 
 # Define the OpenAI API rate limit parameters
 RATE_LIMIT_TPM = 150000
@@ -24,7 +23,8 @@ async def translate_text(input_text, target_language="hi"):
         translator = Translator(client=client)
 
         # Translate the input text to the target language
-        translated_text = await translator.translate(input_text, dest=target_language).text
+        response = await translator.translate(input_text, dest=target_language)
+        translated_text = response.text
 
     return translated_text
 
@@ -48,7 +48,7 @@ def detect_bias(prompt):
 
     return response.choices[0].text.strip()
 
-async def main():
+def main():
     # Set the title and subheading
     st.title("Multilingual Model")
     st.subheader("Introduction")
@@ -74,10 +74,10 @@ async def main():
     if user_input:
         # Get the translation for each language
         translations = {
-            "Hindi": await translate_text(user_input, "hi"),
-            "Marathi": await translate_text(user_input, "mr"),
-            "Gujarati": await translate_text(user_input, "gu"),
-            "Spanish": await translate_text(user_input, "es"),
+            "Hindi": st.experimental_rerun(await translate_text(user_input, "hi")),
+            "Marathi": st.experimental_rerun(await translate_text(user_input, "mr")),
+            "Gujarati": st.experimental_rerun(await translate_text(user_input, "gu")),
+            "Spanish": st.experimental_rerun(await translate_text(user_input, "es")),
         }
 
         # Display the translations
@@ -91,8 +91,7 @@ async def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+    main()
 
 
 
