@@ -35,7 +35,7 @@ def main():
         unsafe_allow_html=True
     )
 
-    conversation_path = '/Users/pranjalyadav/Desktop/Conversation.csv'
+    conversation_path = 'Conversation.csv'
     conversation_encoding = "utf-8"
     conversation_df = load_conversation(conversation_path, encoding=conversation_encoding)
 
