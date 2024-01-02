@@ -1,53 +1,30 @@
 import streamlit as st
-from googletrans import google_translator
 import openai
-import time
-import typing
-from httpx import AsyncClient, Timeout
-import asyncio
+from googletrans import Translator
 
 openai.api_key = "my_key"
 
-class Translator:
-    proxies: typing.Dict[str, AsyncClient] = None
+class CustomTranslator:
+    proxies = None
 
-# Define the OpenAI API rate limit parameters
-RATE_LIMIT_TPM = 150000
-RATE_LIMIT_RPM = 3
-RATE_LIMIT_RPD = 200
-
-# Track the last time an API call was made
-last_api_call_time = time.time()
-
-async def translate_text(input_text, target_language="hi"):
-    translator = google_translator()
+def translate_text(input_text, target_language="hi"):
+    translator = Translator()
 
     # Translate the input text to the target language
-    translated_text = translator.translate(input_text, lang_tgt=target_language)
+    translated_text = translator.translate(input_text, dest=target_language).text
 
     return translated_text
 
 def detect_bias(prompt):
-    global last_api_call_time
-
-    # Check if the rate limit is reached, wait if necessary
-    wait_time = 60 / RATE_LIMIT_RPM  # Convert RPM to seconds
-    elapsed_time = time.time() - last_api_call_time
-    if elapsed_time < wait_time:
-        time.sleep(wait_time - elapsed_time)
-
     response = openai.Completion.create(
         engine="text-davinci-002",
         prompt=prompt,
         max_tokens=100
     )
 
-    # Update the last API call time
-    last_api_call_time = time.time()
-
     return response.choices[0].text.strip()
 
-async def main():
+def main():
     # Set the title and subheading
     st.title("Multilingual Model")
     st.subheader("Introduction")
@@ -72,14 +49,16 @@ async def main():
     # Check if the user has entered a sentence
     if user_input:
         # Get the translation for each language
-        loop = asyncio.get_event_loop()
-        translated_texts = await asyncio.gather(
-            *(translate_text(user_input, lang) for lang in ["hi", "mr", "gu", "es"])
-        )
+        translations = {
+            "Hindi": translate_text(user_input, "hi"),
+            "Marathi": translate_text(user_input, "mr"),
+            "Gujarati": translate_text(user_input, "gu"),
+            "Spanish": translate_text(user_input, "es"),
+        }
 
         # Display the translations
         st.write("Input Text:", user_input)
-        for lang, translated_text in zip(["Hindi", "Marathi", "Gujarati", "Spanish"], translated_texts):
+        for lang, translated_text in translations.items():
             st.write(f"Translated Text ({lang}): {translated_text}")
 
             # Detect bias in the translated sentence
@@ -88,4 +67,4 @@ async def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
