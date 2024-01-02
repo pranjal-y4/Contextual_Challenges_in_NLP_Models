@@ -5,7 +5,11 @@ import time
 import typing
 from httpx import Timeout, AsyncClient
 
-openai.api_key = "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"
+openai.api_key = "my_key"
+
+class Translator:
+    proxies: typing.Dict[str, httpx.SyncHTTPTransport] = None
+
 
 # Define the OpenAI API rate limit parameters
 RATE_LIMIT_TPM = 150000
