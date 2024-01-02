@@ -1,5 +1,5 @@
 import streamlit as st
-from google_trans_new import google_translator
+from google_trans import google_translator
 import openai
 import time
 import typing
