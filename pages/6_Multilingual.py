@@ -3,7 +3,7 @@ from googletrans import Translator
 import openai
 import time
 import typing
-from httpx import Timeout
+from httpx import Timeout, AsyncClient
 
 openai.api_key = "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"
 
@@ -15,11 +15,12 @@ RATE_LIMIT_RPD = 200
 # Track the last time an API call was made
 last_api_call_time = time.time()
 
-def translate_text(input_text, target_language="hi"):
-    translator = Translator()
+async def translate_text(input_text, target_language="hi"):
+    async with AsyncClient() as client:
+        translator = Translator(client=client)
 
-    # Translate the input text to the target language
-    translated_text = translator.translate(input_text, dest=target_language).text
+        # Translate the input text to the target language
+        translated_text = await translator.translate(input_text, dest=target_language).text
 
     return translated_text
 
@@ -43,7 +44,7 @@ def detect_bias(prompt):
 
     return response.choices[0].text.strip()
 
-def main():
+async def main():
     # Set the title and subheading
     st.title("Multilingual Model")
     st.subheader("Introduction")
@@ -69,10 +70,10 @@ def main():
     if user_input:
         # Get the translation for each language
         translations = {
-            "Hindi": translate_text(user_input, "hi"),
-            "Marathi": translate_text(user_input, "mr"),
-            "Gujarati": translate_text(user_input, "gu"),
-            "Spanish": translate_text(user_input, "es"),
+            "Hindi": await translate_text(user_input, "hi"),
+            "Marathi": await translate_text(user_input, "mr"),
+            "Gujarati": await translate_text(user_input, "gu"),
+            "Spanish": await translate_text(user_input, "es"),
         }
 
         # Display the translations
@@ -86,6 +87,8 @@ def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    main()
+    import asyncio
+    asyncio.run(main())
+
 
 
