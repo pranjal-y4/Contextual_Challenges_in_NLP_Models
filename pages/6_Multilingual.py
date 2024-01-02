@@ -1,7 +1,9 @@
 import streamlit as st
-from googletrans import translate
+from googletrans import Translator
 import openai
 import time
+import typing
+from httpx import Timeout
 
 openai.api_key = "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"
 
@@ -14,8 +16,10 @@ RATE_LIMIT_RPD = 200
 last_api_call_time = time.time()
 
 def translate_text(input_text, target_language="hi"):
+    translator = Translator()
+
     # Translate the input text to the target language
-    translated_text = translate(input_text, dest=target_language).text
+    translated_text = translator.translate(input_text, dest=target_language).text
 
     return translated_text
 
@@ -83,4 +87,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
