@@ -1,0 +1,1501 @@
+Sentence,Gender_Bias,Type
+"She's a talented nurse.",1,Occupational Bias
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"Chairman of the committee.",1,Language Bias
+"She's too attractive to be an engineer.",1,Appearance and Beauty Bias
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"He's assertive; she's bossy.",1,Double Standards
+"They are exploring the vibrant cityscape of Tokyo, trying local delicacies and embracing the bustling energy.",0,
+"Discovering the beauty of the Amazon rainforest, he marveled at the diverse flora and fauna.",1,Occupational Bias
+"Wandering through ancient temples, the traveler uncovered the rich history of Angkor Wat.",0,
+"On the adrenaline-pumping adventure, they zip-lined through the dense Costa Rican rainforest.",1,Double Standards
+"After a day of museum hopping, she enjoyed a quiet evening in the charming streets of Paris.",0,
+"The group of friends embarked on a road trip, capturing memories and laughter along the way.",1,Role Stereotyping
+"Navigating the narrow alleys of Venice, he stumbled upon hidden cafes and unique boutiques.",0,
+"Witnessing the awe-inspiring beauty of the Northern Lights, she felt a deep connection with nature.",1,Maternal Bias
+"Exploring the futuristic cityscape of Dubai, he marveled at the architectural wonders.",0,
+"Amidst the serene landscapes of New Zealand, they embarked on a soul-enriching hiking journey.",1,Occupational Bias
+"The software developer's coding expertise streamlined processes, contributing to the overall efficiency of the software development life cycle.",0,
+"Receptionist at the front desk welcomed guests with a warm smile.",1,Occupational Bias
+"The determined firefighter rescued people from the burning building.",0,
+"He's an excellent dancer.",1,Double Standards
+"The skilled mechanic repaired the car efficiently.",0,
+"The librarian organized the books on the shelves with precision.",1,Occupational Bias
+"The confident leader guided the team through challenging projects.",0,
+"The compassionate social worker dedicated her life to helping others.",1,Occupational Bias
+"The adventurous pilot explored new routes and destinations.",0,
+"The talented musician composed a beautiful symphony.",1,Occupational Bias
+"The innovative scientist made groundbreaking discoveries in the field of astronomy.",0,
+"The meticulous architect designed the stunning building.",1,Occupational Bias
+"The dedicated police officer ensured the safety of the community.",0,
+"The creative artist painted vibrant masterpieces.",1,Occupational Bias
+"The knowledgeable professor imparted wisdom to eager students.",0,
+"The skillful chef prepared a delicious gourmet meal.",1,Occupational Bias
+"The efficient IT specialist resolved technical issues promptly.",0,
+"The experienced journalist reported on important global events.",1,Occupational Bias
+"The dedicated construction worker built sturdy structures with precision.",0,
+"The insightful psychologist provided support and guidance to patients.",1,Occupational Bias
+"The skilled electrician repaired faulty wiring in the building.",0,
+"The resourceful farmer cultivated a thriving crop.",1,Occupational Bias
+"The determined athlete broke records in the track and field events.",0,
+"The charismatic actor delivered a captivating performance.",1,Occupational Bias
+"The meticulous dentist ensured the oral health of patients.",0,
+"The talented graphic designer created visually stunning designs.",1,Occupational Bias
+"The skilled plumber fixed plumbing issues efficiently.",0,
+"The experienced veterinarian cared for a variety of animals.",1,Occupational Bias
+"The dedicated postal worker delivered mail promptly.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture.",0,
+"The knowledgeable historian researched and documented past events.",1,Occupational Bias
+"The organized secretary managed administrative tasks efficiently.",0,
+"The dedicated nurse provided compassionate care to patients.",1,Occupational Bias
+"The innovative software engineer developed cutting-edge applications.",0,
+"The skilled welder fabricated metal structures with precision.",1,Occupational Bias
+"The diligent janitor ensured cleanliness and order in the building.",0,
+"The insightful economist analyzed economic trends and made predictions.",1,Occupational Bias
+"The efficient customer service representative addressed inquiries promptly.",0,
+"The talented makeup artist created stunning looks for the runway.",1,Occupational Bias
+"The skilled forklift operator managed warehouse logistics with precision.",0,
+"The experienced geologist studied and analyzed geological formations.",1,Occupational Bias
+"The dedicated retail associate assisted customers with their purchases.",0,
+"The compassionate therapist provided support to individuals facing challenges.",1,Occupational Bias
+"The skilled truck driver transported goods safely across long distances.",0,
+"The visionary entrepreneur founded successful businesses.",1,Occupational Bias
+"The diligent security guard ensured the safety of the premises.",0,
+"The creative fashion designer showcased innovative designs on the runway.",1,Occupational Bias
+"The efficient data analyst interpreted complex data sets.",0,
+"The talented hairdresser created stylish looks for clients.",1,Occupational Bias
+"The skilled machinist operated machinery with precision.",0,
+"The experienced meteorologist studied and predicted weather patterns.",1,Occupational Bias
+"The dedicated teacher inspired and educated students.",0,
+"The insightful urban planner designed sustainable and functional city spaces.",1,Occupational Bias
+"The organized administrative assistant managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The compassionate veterinarian cared for the health of animals.",1,Occupational Bias
+"The skilled locksmith repaired and installed locks with precision.",0,
+"The insightful political scientist analyzed and interpreted political trends.",1,Occupational Bias
+"The organized executive assistant managed tasks for the executive team efficiently.",0,
+"The passionate human rights activist worked to promote justice and equality.",1,Occupational Bias
+"The skilled auto mechanic repaired vehicles with expertise.",0,
+"The knowledgeable astronomer studied celestial bodies and cosmic phenomena.",1,Occupational Bias
+"The dedicated customer service representative addressed inquiries with empathy.",0,
+"The talented choreographer created dynamic dance routines.",1,Occupational Bias
+"The efficient warehouse supervisor managed logistics with precision.",0,
+"The experienced archaeologist uncovered and documented ancient civilizations.",1,Occupational Bias
+"The dedicated receptionist ensured a welcoming atmosphere for visitors.",0,
+"The innovative renewable energy engineer developed sustainable solutions.",1,Occupational Bias
+"The meticulous quality control inspector ensured product standards were met.",0,
+"The skilled exterminator addressed pest control issues with precision.",1,Occupational Bias
+"The insightful market researcher analyzed consumer trends and preferences.",0,
+"The passionate animal rights activist worked to protect and advocate for animals.",1,Occupational Bias
+"The efficient call center operator addressed customer concerns with professionalism.",0,
+"The talented glassblower created intricate and artistic glass designs.",1,Occupational Bias
+"The skilled HVAC technician maintained and repaired heating and cooling systems.",0,
+"The experienced ornithologist studied and documented bird species.",1,Occupational Bias
+"The dedicated front desk receptionist managed incoming calls and appointments efficiently.",0,
+"The innovative robotics engineer developed cutting-edge robotic systems.",1,Occupational Bias
+"The meticulous warehouse packer ensured accurate packaging and shipment of goods.",0,
+"The skilled landscape architect designed aesthetically pleasing outdoor spaces.",1,Occupational Bias
+"The insightful data scientist analyzed and interpreted complex data sets.",0,
+"The passionate mental health counselor provided support to individuals facing challenges.",1,Occupational Bias
+"The efficient delivery courier ensured timely and accurate deliveries to customers.",0,
+"The talented puppeteer created engaging performances with intricate puppets.",1,Occupational Bias
+"The skilled CNC machinist operated machinery with precision.",0,
+"The experienced volcanologist studied and monitored volcanic activity.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with efficiency.",0,
+"The innovative geneticist made advancements in understanding genetic diseases.",1,Occupational Bias
+"The meticulous construction project manager ensured projects were completed on time.",0,
+"The passionate LGBTQ+ rights advocate worked to promote inclusivity and equality.",1,Role Stereotyping
+"The efficient warehouse forklift operator managed inventory with precision.",0,
+"The talented graffiti artist created vibrant and impactful street art.",1,Occupational Bias
+"The skilled automotive technician repaired and maintained vehicles with expertise.",0,
+"The experienced entomologist studied and classified insect species.",1,Occupational Bias
+"The dedicated office assistant managed administrative tasks with efficiency.",0,
+"The insightful nutritionist analyzed and advised on dietary choices.",1,Occupational Bias
+"The passionate civil rights advocate worked to eliminate discrimination and injustice.",0,
+"The skilled tax accountant managed financial records and ensured compliance.",1,Occupational Bias
+"The innovative machine learning engineer developed advanced algorithms.",0,
+"The talented stained glass artist created intricate and colorful glass designs.",1,Occupational Bias
+"The meticulous laboratory technician ensured accurate testing and analysis.",0,
+"The experienced marine ecologist studied and preserved marine ecosystems.",1,Occupational Bias
+"The dedicated retail sales associate assisted customers with their purchases.",0,
+"The passionate disability rights advocate worked to promote accessibility and inclusion.",1,Role Stereotyping
+"The efficient warehouse manager oversaw logistics and inventory control.",0,
+"The talented improv comedian entertained audiences with spontaneous humor.",1,Occupational Bias
+"The skilled HVAC installer maintained and installed heating and cooling systems.",0,
+"The experienced oceanographer studied and documented ocean currents.",1,Occupational Bias
+"The dedicated office receptionist managed calls and appointments with efficiency.",0,
+"The innovative renewable energy scientist developed sustainable solutions.",1,Occupational Bias
+"The meticulous quality assurance analyst ensured product quality met standards.",0,
+"The skilled pest control technician addressed pest issues with precision.",1,Occupational Bias
+"The insightful market analyst analyzed market trends and provided strategic insights.",0,
+"The passionate environmental conservationist worked to protect natural habitats.",1,Occupational Bias
+"The efficient customer support representative addressed inquiries with professionalism.",0,
+"The talented makeup artist created stunning looks for various events.",1,Occupational Bias
+"The skilled forklift operator managed warehouse operations with precision.",0,
+"The experienced geographer studied and mapped geographical features.",1,Occupational Bias
+"The dedicated customer service representative addressed issues with empathy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The dedicated nurse provided compassionate care to patients.",1,Occupational Bias
+"The innovative software engineer developed cutting-edge applications.",0,
+"The skilled welder fabricated metal structures with precision.",1,Occupational Bias
+"The diligent janitor ensured cleanliness and order in the building.",0,
+"The insightful economist analyzed economic trends and made predictions.",1,Occupational Bias
+"The efficient customer service representative addressed inquiries promptly.",0,
+"The talented makeup artist created stunning looks for the runway.",1,Occupational Bias
+"The skilled plumber fixed plumbing issues efficiently.",0,
+"The experienced veterinarian cared for a variety of animals.",1,Occupational Bias
+"The dedicated postal worker delivered mail promptly.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture.",0,
+"The knowledgeable historian researched and documented past events.",1,Occupational Bias
+"The organized administrative assistant managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"The efficient delivery driver ensured timely deliveries to customers.",0,
+"The experienced marine biologist studied and preserved ocean ecosystems.",1,Occupational Bias
+"The dedicated retail cashier processed transactions with accuracy.",0,
+"The proficient mathematician solved complex equations with ease.",1,Occupational Bias
+"The skilled carpenter crafted elegant furniture pieces.",0,
+"The knowledgeable historian researched and documented historical events.",1,Occupational Bias
+"The organized secretary managed office tasks efficiently.",0,
+"The passionate environmentalist worked to protect natural ecosystems.",1,Occupational Bias
+"The skilled chef prepared a diverse and flavorful menu.",0,
+"The knowledgeable librarian guided patrons to valuable resources.",1,Occupational Bias
+"The diligent warehouse worker managed inventory with precision.",0,
+"The experienced archaeologist uncovered and preserved historical artifacts.",1,Occupational Bias
+"The dedicated customer support representative addressed issues with care.",0,
+"The skilled tailor created custom clothing designs.",1,Occupational Bias
+"The innovative biomedical researcher made advancements in medical science.",0,
+"The talented acrobat performed breathtaking stunts with grace.",1,Occupational Bias
+"She's a talented engineer.",1,Occupational Bias
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"Chairman of the committee will lead the meeting.",0,Language Bias
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"He's assertive; she's bossy.",1,Double Standards
+"Exploring the ancient ruins, she marveled at the history.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"The skilled chef prepared a delicious meal for the guests.",0,Not Applicable
+"The proficient programmer debugged the software efficiently.",0,Not Applicable
+"The skilled athlete demonstrated impressive performance in the competition.",0,Not Applicable
+"The dedicated firefighter bravely rescued people from the burning building.",0,Not Applicable
+"The passionate artist created a masterpiece that captivated the audience.",0,Not Applicable
+"The experienced pilot safely landed the plane during challenging weather.",0,Not Applicable
+"Teaching is a nurturing profession, so she's a great fit for it.",1,Occupational Bias
+"He's a software engineer; coding must come naturally to him.",1,Occupational Bias
+"She must be emotional; after all, she's a woman.",1,Role Stereotyping
+"He's a nurse; he must be very caring and empathetic.",1,Role Stereotyping
+"She'll likely take a break from work for family reasons; it's expected of women.",1,Maternal Bias
+"He's the chairman of the board; he'll make the final decision.",1,Language Bias
+"Being a model is all about appearance; she should be attractive.",1,Appearance and Beauty Bias
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's a talented nurse.",1,Occupational Bias
+"He's a skilled teacher.",1,Occupational Bias
+"The engineer efficiently designed the new software.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She's the homemaker, managing the household.",1,Role Stereotyping
+"The proficient programmer debugged the software efficiently.",0,Not Applicable
+"The dedicated manager successfully led the team to achieve the project goals.",0,Not Applicable
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"He'll focus on his career; that's a father's responsibility.",1,Maternal Bias
+"The skilled athlete demonstrated impressive performance in the competition.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"Chairman of the committee will lead the meeting.",0,Language Bias
+"The committee chairperson will lead the meeting.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's too handsome to be an engineer.",1,Appearance and Beauty Bias
+"The dedicated firefighter bravely rescued people from the burning building.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She won't prioritize work; that's for fathers.",1,Parental Leave Bias
+"The passionate artist created a masterpiece that captivated the audience.",0,Not Applicable
+"The experienced pilot safely landed the plane during challenging weather.",0,Not Applicable
+"He's assertive; she's bossy.",1,Double Standards
+"She's confident; he's arrogant.",1,Double Standards
+"Exploring the ancient ruins, she marveled at the history.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"He's the provider, ensuring financial stability for the family.",1,Role Stereotyping
+"She's responsible for the household chores; it's her duty as a woman.",1,Role Stereotyping
+"He's the decision-maker in the relationship; she just follows along.",1,Role Stereotyping
+"She's the emotional one; he doesn't understand feelings.",1,Role Stereotyping
+"As the man of the house, he takes care of all major responsibilities.",1,Role Stereotyping
+"In their relationship, she's expected to be nurturing and supportive.",1,Role Stereotyping
+"He's the handyman, fixing things around the house.",1,Role Stereotyping
+"As the wife, she manages the family budget and expenses.",1,Role Stereotyping
+"In their dynamic, he's the leader, and she follows his decisions.",1,Role Stereotyping
+"She's responsible for the children's education and well-being.",1,Role Stereotyping
+"He's the breadwinner, while she takes care of the home and children.",1,Role Stereotyping
+"As a woman, she naturally excels in caregiving roles.",1,Role Stereotyping
+"His career comes first; she should prioritize supporting him.",1,Role Stereotyping
+"She's expected to be the peacemaker in family conflicts.",1,Role Stereotyping
+"He's the protector; she relies on him for safety.",1,Role Stereotyping
+"In their relationship, he's the problem solver; she turns to him for solutions.",1,Role Stereotyping
+"As the man, he's naturally assertive and takes charge.",1,Role Stereotyping
+"She's the one who plans family events and gatherings.",1,Role Stereotyping
+"He's the leader in their social circle, making decisions for the group.",1,Role Stereotyping
+"In their dynamic, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-focused.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She's the one who handles emotional conversations and expressions.",1,Role Stereotyping
+"He's the protector; she relies on him for physical security.",1,Role Stereotyping
+"In their relationship, she's expected to prioritize his needs.",1,Role Stereotyping
+"She's responsible for maintaining the family's social connections.",1,Role Stereotyping
+"He's the decision-maker; she supports his choices.",1,Role Stereotyping
+"As a man, he's naturally authoritative and in control.",1,Role Stereotyping
+"She takes care of the family's social calendar and events.",1,Role Stereotyping
+"He's the provider; she manages the household responsibilities.",1,Role Stereotyping
+"In their dynamic, she's expected to be emotionally supportive.",1,Role Stereotyping
+"He's the problem solver; she depends on him for solutions.",1,Role Stereotyping
+"As the man, he's naturally confident and assertive.",1,Role Stereotyping
+"She's the one who plans and organizes family vacations.",1,Role Stereotyping
+"He's the leader in their social group, making decisions for the team.",1,Role Stereotyping
+"In their relationship, she defers to his opinions and choices.",1,Role Stereotyping
+"As the man, he's expected to be ambitious and career-driven.",1,Role Stereotyping
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"Being a mother, she might prioritize family over career.",1,Maternal Bias
+"He'll focus on his career; that's a father's responsibility.",1,Maternal Bias
+"As a mom, she'll likely take a break from work for family reasons.",1,Maternal Bias
+"It's expected that she'll be more nurturing as a mother.",1,Maternal Bias
+"Since she's a mother, she may not be interested in a demanding job.",1,Maternal Bias
+"He might not take on parenting duties; that's typically a mother's role.",1,Maternal Bias
+"As a parent, she'll likely choose a flexible job for better work-life balance.",1,Maternal Bias
+"Being a mom, she may not want to travel extensively for work.",1,Maternal Bias
+"He won't prioritize family events; that's not a mother's concern.",1,Maternal Bias
+"Assuming she'll handle childcare, given that she's a mother.",1,Maternal Bias
+"As a mother, she may struggle to balance work and family life.",1,Maternal Bias
+"Considering she has kids, she'll likely avoid taking on additional responsibilities at work.",1,Maternal Bias
+"He may not take paternity leave; that's typically for mothers.",1,Maternal Bias
+"She might not be interested in career advancement; mothers often focus on family.",1,Maternal Bias
+"Being a mother, she might not be suitable for demanding roles.",1,Maternal Bias
+"He may not attend work events; family responsibilities usually fall on mothers.",1,Maternal Bias
+"Assuming she'll take a part-time job to manage family commitments as a mother.",1,Maternal Bias
+"Since she's a mother, she may not be available for business trips.",1,Maternal Bias
+"He won't take parental leave; that's typically for mothers.",1,Maternal Bias
+"She might avoid work-related travel; mothers often prioritize being at home.",1,Maternal Bias
+"As a mom, she may not be interested in career development opportunities.",1,Maternal Bias
+"Considering she's a mother, she may not take on leadership roles at work.",1,Maternal Bias
+"He won't participate in after-work activities; mothers usually handle family matters.",1,Maternal Bias
+"As a parent, she might not be ambitious in her career.",1,Maternal Bias
+"Given that she's a mother, she may not be open to relocation for work.",1,Maternal Bias
+"He won't be interested in working long hours; mothers typically prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a high-stress job to focus on family.",1,Maternal Bias
+"Considering she's a mother, she might not attend late-night work events.",1,Maternal Bias
+"He might not aim for career success; mothers usually prioritize their children.",1,Maternal Bias
+"As a parent, she may not be as committed to work due to family responsibilities.",1,Maternal Bias
+"Given that she's a mother, she might avoid jobs with extensive travel requirements.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive work environments.",1,Maternal Bias
+"He may not take on leadership roles; mothers usually handle caregiving responsibilities.",1,Maternal Bias
+"As a mother, she might not pursue demanding career paths.",1,Maternal Bias
+"Considering she has kids, she might not prioritize professional growth.",1,Maternal Bias
+"As a mom, she might not want a job with frequent work-related events.",1,Maternal Bias
+"He won't prioritize career advancement; mothers typically focus on family.",1,Maternal Bias
+"Given that she's a mother, she might avoid jobs with long commutes.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for high-paying positions.",1,Maternal Bias
+"He might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"She might not be interested in competitive industries; mothers often seek work-life balance.",1,Maternal Bias
+"Since she's a mom, she may not want a demanding job with tight deadlines.",1,Maternal Bias
+"He won't be interested in career growth; mothers usually prioritize family over work.",1,Maternal Bias
+"As a parent, she may not be ambitious in her professional life.",1,Maternal Bias
+"Considering she's a mother, she may not prioritize work-related achievements.",1,Maternal Bias
+"He might not take on challenging projects; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a mom, she may not be interested in job opportunities that require frequent travel.",1,Maternal Bias
+"Given that she's a mother, she may not want a high-pressure job.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive job markets.",1,Maternal Bias
+"As a parent, she may not prioritize career success over family life.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for leadership positions.",1,Maternal Bias
+"He won't prioritize career advancements; mothers usually focus on family.",1,Maternal Bias
+"She might not attend work events that require extended hours; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a job with frequent travel requirements.",1,Maternal Bias
+"Given that she's a mother, she might avoid high-stress job environments.",1,Maternal Bias
+"Since she's a mom, she may not be interested in competitive industries.",1,Maternal Bias
+"He might not take on demanding roles; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a parent, she may not prioritize career achievements over family life.",1,Maternal Bias
+"Considering she's a mother, she may not want a job with frequent work-related events.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"He won't prioritize career growth; mothers typically focus on family over work.",1,Maternal Bias
+"She might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for leadership positions.",1,Maternal Bias
+"He won't prioritize career advancements; mothers usually focus on family.",1,Maternal Bias
+"She might not attend work events that require extended hours; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a job with frequent travel requirements.",1,Maternal Bias
+"Given that she's a mother, she might avoid high-stress job environments.",1,Maternal Bias
+"Since she's a mom, she may not be interested in competitive industries.",1,Maternal Bias
+"He might not take on demanding roles; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a parent, she may not prioritize career achievements over family life.",1,Maternal Bias
+"Considering she's a mother, she may not want a job with frequent work-related events.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"He won't prioritize career growth; mothers typically focus on family over work.",1,Maternal Bias
+"She might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for leadership positions.",1,Maternal Bias
+"He won't prioritize career advancements; mothers usually focus on family.",1,Maternal Bias
+"She might not attend work events that require extended hours; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a job with frequent travel requirements.",1,Maternal Bias
+"Given that she's a mother, she might avoid high-stress job environments.",1,Maternal Bias
+"Since she's a mom, she may not be interested in competitive industries.",1,Maternal Bias
+"He might not take on demanding roles; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a parent, she may not prioritize career achievements over family life.",1,Maternal Bias
+"Considering she's a mother, she may not want a job with frequent work-related events.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"He won't prioritize career growth; mothers typically focus on family over work.",1,Maternal Bias
+"She might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for leadership positions.",1,Maternal Bias
+"He won't prioritize career advancements; mothers usually focus on family.",1,Maternal Bias
+"She might not attend work events that require extended hours; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a job with frequent travel requirements.",1,Maternal Bias
+"Given that she's a mother, she might avoid high-stress job environments.",1,Maternal Bias
+"Since she's a mom, she may not be interested in competitive industries.",1,Maternal Bias
+"He might not take on demanding roles; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a parent, she may not prioritize career achievements over family life.",1,Maternal Bias
+"Considering she's a mother, she may not want a job with frequent work-related events.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"He won't prioritize career growth; mothers typically focus on family over work.",1,Maternal Bias
+"She might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"Considering she's a mother, she may not aim for leadership positions.",1,Maternal Bias
+"He won't prioritize career advancements; mothers usually focus on family.",1,Maternal Bias
+"She might not attend work events that require extended hours; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a job with frequent travel requirements.",1,Maternal Bias
+"Given that she's a mother, she might avoid high-stress job environments.",1,Maternal Bias
+"Since she's a mom, she may not be interested in competitive industries.",1,Maternal Bias
+"He might not take on demanding roles; mothers often focus on family responsibilities.",1,Maternal Bias
+"As a parent, she may not prioritize career achievements over family life.",1,Maternal Bias
+"Considering she's a mother, she may not want a job with frequent work-related events.",1,Maternal Bias
+"Assuming she'll choose a job with predictable hours as a mother.",1,Maternal Bias
+"He won't prioritize career growth; mothers typically focus on family over work.",1,Maternal Bias
+"She might not attend work-related social events; mothers often prioritize family time.",1,Maternal Bias
+"As a mom, she may not want a career with unpredictable work hours.",1,Maternal Bias
+"Given that she's a mother, she may not pursue career opportunities that involve frequent travel.",1,Maternal Bias
+"Since she's a mom, she might not be interested in competitive industries.",1,Maternal Bias
+"As a parent, she may not prioritize professional achievements over family.",1,Maternal Bias
+"Assuming she'll choose a job with flexible hours as a mother.",1,Maternal Bias
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She manages the household; he focuses on his career.",1,Role Stereotyping
+"While he excels in his career, she prioritizes family responsibilities.",1,Role Stereotyping
+"She's the caregiver, managing both work and home.",1,Role Stereotyping
+"He's the provider; she handles domestic duties.",1,Role Stereotyping
+"In their dynamic, he's the professional, and she manages the household affairs.",1,Role Stereotyping
+"While he pursues his ambitions, she attends to family needs.",1,Role Stereotyping
+"She sacrifices her career for the family, while he advances in his profession.",1,Role Stereotyping
+"He's the career-driven individual; she ensures the smooth running of the household.",1,Role Stereotyping
+"She takes care of home responsibilities, allowing him to focus on his career.",1,Role Stereotyping
+"Balancing career and family, he's the primary earner, while she manages the home front.",1,Role Stereotyping
+"She's the homemaker, prioritizing the well-being of the family over professional pursuits.",1,Role Stereotyping
+"While he climbs the corporate ladder, she supports him by managing household affairs.",1,Role Stereotyping
+"He's the provider; she's responsible for creating a nurturing home environment.",1,Role Stereotyping
+"In their partnership, he's the career-oriented individual, while she takes care of the family.",1,Role Stereotyping
+"She focuses on domestic responsibilities, allowing him to advance in his profession.",1,Role Stereotyping
+"While he thrives in his career, she dedicates herself to maintaining a harmonious home.",1,Role Stereotyping
+"He's the primary breadwinner, and she manages the household and family commitments.",1,Role Stereotyping
+"She sacrifices career aspirations to support him in his professional journey.",1,Role Stereotyping
+"In their arrangement, he's the professional, and she handles the day-to-day family matters.",1,Role Stereotyping
+"Balancing career and family, he excels in his profession, and she nurtures their home life.",1,Role Stereotyping
+"While he achieves success in his career, she ensures a supportive and comfortable home.",1,Role Stereotyping
+"She plays a crucial role in maintaining family life, allowing him to pursue career ambitions.",1,Role Stereotyping
+"He's the primary earner, while she manages the household and family responsibilities.",1,Role Stereotyping
+"In their partnership, he focuses on career growth, and she attends to familial duties.",1,Role Stereotyping
+"She's dedicated to creating a nurturing home environment, while he pursues his career goals.",1,Role Stereotyping
+"While he advances in his profession, she prioritizes family well-being and household tasks.",1,Role Stereotyping
+"He's the career-oriented individual; she's the cornerstone of their family life.",1,Role Stereotyping
+"She dedicates herself to supporting his career, managing household affairs and family needs.",1,Role Stereotyping
+"Balancing work and family, he's the primary provider, and she ensures a harmonious home.",1,Role Stereotyping
+"She manages the household, enabling him to focus on his professional endeavors.",1,Role Stereotyping
+"While he pursues career success, she is the foundation of their family life.",1,Role Stereotyping
+"He's the breadwinner; she takes care of the home and family.",1,Role Stereotyping
+"In their dynamic, he excels in his career, and she prioritizes family and domestic duties.",1,Role Stereotyping
+"Supporting his professional journey, she manages household responsibilities.",1,Role Stereotyping
+"While he climbs the corporate ladder, she is the backbone of their home life.",1,Role Stereotyping
+"Balancing career and family, he's the primary earner, and she ensures family well-being.",1,Role Stereotyping
+"She's the homemaker, dedicating herself to creating a loving home for the family.",1,Role Stereotyping
+"While he thrives in his career, she selflessly attends to family and household needs.",1,Role Stereotyping
+"He's the provider; she's the caretaker of their home and family.",1,Role Stereotyping
+"In their partnership, he focuses on career growth, and she maintains a stable home life.",1,Role Stereotyping
+"She sacrifices career aspirations to support him in his professional journey.",1,Role Stereotyping
+"Balancing career and family, he excels in his profession, and she nurtures their home life.",1,Role Stereotyping
+"While he achieves success in his career, she ensures a supportive and comfortable home.",1,Role Stereotyping
+"She plays a crucial role in maintaining family life, allowing him to pursue career ambitions.",1,Role Stereotyping
+"He's the primary earner, while she manages the household and family responsibilities.",1,Role Stereotyping
+"In their partnership, he focuses on career growth, and she attends to familial duties.",1,Role Stereotyping
+"She's dedicated to creating a nurturing home environment, while he pursues his career goals.",1,Role Stereotyping
+"While he advances in his profession, she prioritizes family well-being and household tasks.",1,Role Stereotyping
+"He's the career-oriented individual; she's the cornerstone of their family life.",1,Role Stereotyping
+"She dedicates herself to supporting his career, managing household affairs and family needs.",1,Role Stereotyping
+"Balancing work and family, he's the primary provider, and she ensures a harmonious home.",1,Role Stereotyping
+"She manages the household, enabling him to focus on his professional endeavors.",1,Role Stereotyping
+"While he pursues career success, she is the foundation of their family life.",1,Role Stereotyping
+"He's the breadwinner; she takes care of the home and family.",1,Role Stereotyping
+"In their dynamic, he excels in his career, and she prioritizes family and domestic duties.",1,Role Stereotyping
+"Supporting his professional journey, she manages household responsibilities.",1,Role Stereotyping
+"While he climbs the corporate ladder, she is the backbone of their home life.",1,Role Stereotyping
+"Balancing career and family, he's the primary earner, and she ensures family well-being.",1,Role Stereotyping
+"She's the homemaker, dedicating herself to creating a loving home for the family.",1,Role Stereotyping
+"While he thrives in his career, she selflessly attends to family and household needs.",1,Role Stereotyping
+"He's the provider; she's the caretaker of their home and family.",1,Role Stereotyping
+"In their partnership, he focuses on career growth, and she maintains a stable home life.",1,Role Stereotyping
+"He's the chairman of the committee.",1,Language Bias
+"The manager directed the team; she made crucial decisions.",1,Language Bias
+"Only a businessman could handle such negotiations.",1,Language Bias
+"The scientist explained the complex theory; she's brilliant.",1,Language Bias
+"The president addressed the nation; he outlined the government's plans.",1,Language Bias
+"She's the chairwoman; she leads the organization.",1,Language Bias
+"An engineer must be a man; it's a tough profession.",1,Language Bias
+"The doctor examined the patient; he prescribed medication.",1,Language Bias
+"A nurse's job is demanding; she works long hours.",1,Language Bias
+"Being a pilot is stressful; he must manage the aircraft.",1,Language Bias
+"Only a man can be a CEO; it's a position of power.",1,Language Bias
+"The professor conducted the research; he published groundbreaking findings.",1,Language Bias
+"She's the director; she manages the department.",1,Language Bias
+"The supervisor coordinated the project; he ensured its success.",1,Language Bias
+"An entrepreneur takes risks; he builds a business from the ground up.",1,Language Bias
+"The developer wrote the code; she solved complex problems.",1,Language Bias
+"The governor implemented policies; he shaped the state's future.",1,Language Bias
+"She's the mayor; she leads the city with vision.",1,Language Bias
+"The editor reviewed the manuscript; he made valuable revisions.",1,Language Bias
+"A judge's role is crucial; he interprets and upholds the law.",1,Language Bias
+"The musician composed the symphony; she demonstrated artistic brilliance.",1,Language Bias
+"He's the CEO; he oversees the company's operations.",1,Language Bias
+"The architect designed the building; she created a masterpiece.",1,Language Bias
+"The scientist conducted experiments; he advanced our understanding of biology.",1,Language Bias
+"She's the manager; she oversees the team's projects.",1,Language Bias
+"The engineer designed the innovative technology; he revolutionized the industry.",1,Language Bias
+"The captain navigated the ship; he ensured a safe voyage.",1,Language Bias
+"A surgeon performs delicate procedures; he saves lives.",1,Language Bias
+"The conductor led the orchestra; she directed a flawless performance.",1,Language Bias
+"He's the chairman of the board; he makes strategic decisions.",1,Language Bias
+"The farmer cultivates the land; he provides essential resources.",1,Language Bias
+"She's the CEO; she leads the company with vision.",1,Language Bias
+"The professor conducted research; he published influential papers.",1,Language Bias
+"The chef prepared the exquisite dish; he showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; he influences government policies.",1,Language Bias
+"The journalist reported on the events; she delivered accurate news.",1,Language Bias
+"The therapist provides counseling; he helps individuals overcome challenges.",1,Language Bias
+"She's the principal; she oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; he contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; he revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; he outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; he diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; he expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; he makes strategic decisions.",1,Language Bias
+"She's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; she implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; he represents clients.",1,Language Bias
+"The engineer developed the software; she implemented cutting-edge solutions.",1,Language Bias
+"The director guided the film production; he ensured a successful outcome.",1,Language Bias
+"She's the president; she leads the organization with dedication.",1,Language Bias
+"The scientist conducted experiments; he expanded our understanding of physics.",1,Language Bias
+"The captain navigated the aircraft; he ensured a smooth flight.",1,Language Bias
+"He's the chairman; he presides over meetings.",1,Language Bias
+"The farmer cultivates the crops; he contributes to food production.",1,Language Bias
+"She's the CEO; she leads the company with strategic vision.",1,Language Bias
+"The professor conducted research; he published influential studies.",1,Language Bias
+"The chef prepared the signature dish; he showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; he influences government policies.",1,Language Bias
+"The journalist reported on the events; she delivered accurate news coverage.",1,Language Bias
+"The therapist provides counseling; she helps individuals overcome challenges.",1,Language Bias
+"He's the principal; he oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; she contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; she revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; she outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; she diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; she expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; she makes strategic decisions.",1,Language Bias
+"He's the chairperson of the committee; he guides discussions.",1,Language Bias
+"The architect designed the structure; he implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; she represents clients.",1,Language Bias
+"The engineer developed the software; he implemented cutting-edge solutions.",1,Language Bias
+"The director guided the film production; she ensured a successful outcome.",1,Language Bias
+"She's the president; she leads the organization with dedication.",1,Language Bias
+"The scientist conducted experiments; she expanded our understanding of physics.",1,Language Bias
+"The captain navigated the aircraft; she ensured a smooth flight.",1,Language Bias
+"He's the chairman; he presides over meetings.",1,Language Bias
+"The farmer cultivates the crops; he contributes to food production.",1,Language Bias
+"She's the CEO; she leads the company with strategic vision.",1,Language Bias
+"The professor conducted research; she published influential studies.",1,Language Bias
+"The chef prepared the signature dish; she showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; she influences government policies.",1,Language Bias
+"The journalist reported on the events; he delivered accurate news coverage.",1,Language Bias
+"The therapist provides counseling; he helps individuals overcome challenges.",1,Language Bias
+"She's the principal; she oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; she contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; she revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; she outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; she diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; he expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; he makes strategic decisions.",1,Language Bias
+"She's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; he implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; she represents clients.",1,Language Bias
+"The engineer developed the software; he implemented cutting-edge solutions.",1,Language Bias
+"The director guided the film production; she ensured a successful outcome.",1,Language Bias
+"She's the president; she leads the organization with dedication.",1,Language Bias
+"The scientist conducted experiments; she expanded our understanding of physics.",1,Language Bias
+"The captain navigated the aircraft; she ensured a smooth flight.",1,Language Bias
+"He's the chairman; he presides over meetings.",1,Language Bias
+"The farmer cultivates the crops; he contributes to food production.",1,Language Bias
+"She's the CEO; she leads the company with strategic vision.",1,Language Bias
+"The professor conducted research; she published influential studies.",1,Language Bias
+"The chef prepared the signature dish; she showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; she influences government policies.",1,Language Bias
+"The journalist reported on the events; he delivered accurate news coverage.",1,Language Bias
+"The therapist provides counseling; he helps individuals overcome challenges.",1,Language Bias
+"He's the principal; he oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; he contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; he revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; he outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; he diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; he expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; she makes strategic decisions.",1,Language Bias
+"He's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; she implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; she imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; he represents clients.",1,Language Bias
+"The engineer developed the software; she implemented cutting-edge solutions.",1,Language Bias
+"The director guided the film production; he ensured a successful outcome.",1,Language Bias
+"She's the president; she leads the organization with dedication.",1,Language Bias
+"The scientist conducted experiments; he expanded our understanding of physics.",1,Language Bias
+"The captain navigated the aircraft; she ensured a smooth flight.",1,Language Bias
+"He's the chairman; he presides over meetings.",1,Language Bias
+"The farmer cultivates the crops; he contributes to food production.",1,Language Bias
+"She's the CEO; she leads the company with strategic vision.",1,Language Bias
+"The professor conducted research; she published influential studies.",1,Language Bias
+"The chef prepared the signature dish; he showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; he influences government policies.",1,Language Bias
+"The journalist reported on the events; she delivered accurate news coverage.",1,Language Bias
+"The therapist provides counseling; she helps individuals overcome challenges.",1,Language Bias
+"He's the principal; he oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; she contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; she revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; she outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; she diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; he expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; he makes strategic decisions.",1,Language Bias
+"She's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; he implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; she represents clients.",1,Language Bias
+"The engineer developed the software; he implemented cutting-edge solutions.",1,Language Bias
+"The director guided the film production; she ensured a successful outcome.",1,Language Bias
+"She's the president; she leads the organization with dedication.",1,Language Bias
+"The scientist conducted experiments; she expanded our understanding of physics.",1,Language Bias
+"The captain navigated the aircraft; she ensured a smooth flight.",1,Language Bias
+"He's the chairman; he presides over meetings.",1,Language Bias
+"The farmer cultivates the crops; he contributes to food production.",1,Language Bias
+"She's the CEO; she leads the company with strategic vision.",1,Language Bias
+"The professor conducted research; she published influential studies.",1,Language Bias
+"The chef prepared the signature dish; he showcased culinary expertise.",1,Language Bias
+"A politician makes important decisions; he influences government policies.",1,Language Bias
+"The journalist reported on the events; she delivered accurate news coverage.",1,Language Bias
+"The therapist provides counseling; he helps individuals overcome challenges.",1,Language Bias
+"She's the principal; she oversees the school's administration.",1,Language Bias
+"The scientist conducted experiments; he contributed to scientific knowledge.",1,Language Bias
+"The engineer designed the new technology; he revolutionized the field.",1,Language Bias
+"The mayor addressed the citizens; she outlined plans for the city.",1,Language Bias
+"A doctor makes critical decisions; she diagnoses and treats patients.",1,Language Bias
+"The artist created the painting; she expressed creativity and talent.",1,Language Bias
+"The CEO leads the company; she makes strategic decisions.",1,Language Bias
+"He's the chairperson of the committee; she guides discussions.",1,Language Bias
+"The architect designed the structure; he implemented innovative ideas.",1,Language Bias
+"The professor teaches the course; he imparts knowledge to students.",1,Language Bias
+"The musician composed the symphony; he demonstrated musical genius.",1,Language Bias
+"The manager oversees the team; she ensures project success.",1,Language Bias
+"A lawyer argues cases in court; he represents clients.",1,Language Bias
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's too handsome to be a programmer.",1,Appearance and Beauty Bias
+"The model is too beautiful to work in IT.",1,Appearance and Beauty Bias
+"She's too pretty to be an engineer.",1,Appearance and Beauty Bias
+"He's too good-looking to be a doctor.",1,Appearance and Beauty Bias
+"The attractive receptionist can't be a software developer.",1,Appearance and Beauty Bias
+"She's too glamorous to be a mathematician.",1,Appearance and Beauty Bias
+"He's too suave to be a physicist.",1,Appearance and Beauty Bias
+"The elegant fashionista can't be a mechanical engineer.",1,Appearance and Beauty Bias
+"He's too stylish to work in a research lab.",1,Appearance and Beauty Bias
+"The stunning actress must not have a technical job.",1,Appearance and Beauty Bias
+"He's too charming to be a data analyst.",1,Appearance and Beauty Bias
+"The handsome guy is probably not a computer scientist.",1,Appearance and Beauty Bias
+"She's too attractive for a career in technology.",1,Appearance and Beauty Bias
+"He's too good-looking to be a software engineer.",1,Appearance and Beauty Bias
+"The fashionable woman must be in a creative field, not engineering.",1,Appearance and Beauty Bias
+"He's too handsome for a serious job like a scientist.",1,Appearance and Beauty Bias
+"The makeup artist is too beautiful to work in IT.",1,Appearance and Beauty Bias
+"She's too glamorous to be a software developer.",1,Appearance and Beauty Bias
+"He's too attractive to be a physicist.",1,Appearance and Beauty Bias
+"The stylish designer must not be involved in complex technical work.",1,Appearance and Beauty Bias
+"She's too pretty to be an architect.",1,Appearance and Beauty Bias
+"He's too handsome to be a robotics engineer.",1,Appearance and Beauty Bias
+"The beautiful model can't possibly have a career in data analysis.",1,Appearance and Beauty Bias
+"She's too attractive to work in a scientific research lab.",1,Appearance and Beauty Bias
+"He's too suave to be a computer programmer.",1,Appearance and Beauty Bias
+"The charming guy must be in a field other than engineering.",1,Appearance and Beauty Bias
+"She's too pretty to be a software developer.",1,Appearance and Beauty Bias
+"He's too good-looking to be a mathematician.",1,Appearance and Beauty Bias
+"The elegant woman must have a job in a creative field, not technology.",1,Appearance and Beauty Bias
+"The stylish man is probably not involved in serious technical work.",1,Appearance and Beauty Bias
+"The attractive actress must not have a job in data analysis.",1,Appearance and Beauty Bias
+"He's too handsome for a career in software engineering.",1,Appearance and Beauty Bias
+"The fashionable designer is too beautiful for a job in IT.",1,Appearance and Beauty Bias
+"She's too pretty to be a computer scientist.",1,Appearance and Beauty Bias
+"The charming guy must be in a field other than technology.",1,Appearance and Beauty Bias
+"He's too good-looking to be a software engineer.",1,Appearance and Beauty Bias
+"The stylish woman can't possibly have a career in mathematics.",1,Appearance and Beauty Bias
+"She's too glamorous to work in a scientific research lab.",1,Appearance and Beauty Bias
+"He's too suave to be a programmer.",1,Appearance and Beauty Bias
+"The beautiful model must not be involved in serious technical work.",1,Appearance and Beauty Bias
+"She's too attractive to be an engineer.",1,Appearance and Beauty Bias
+"He's too handsome for a career in robotics.",1,Appearance and Beauty Bias
+"The elegant woman is too pretty for a job in computer programming.",1,Appearance and Beauty Bias
+"The charming guy must not have a job in data analysis.",1,Appearance and Beauty Bias
+"She's too glamorous to work in a research lab.",1,Appearance and Beauty Bias
+"He's too good-looking to be a mathematician.",1,Appearance and Beauty Bias
+"The stylish designer is too attractive for a job in software engineering.",1,Appearance and Beauty Bias
+"She's too pretty to be a physicist.",1,Appearance and Beauty Bias
+"He's too handsome to be a software developer.",1,Appearance and Beauty Bias
+"The charming woman must be in a creative field, not technology.",1,Appearance and Beauty Bias
+"The attractive man is probably not involved in serious technical work.",1,Appearance and Beauty Bias
+"She's too glamorous to have a career in IT.",1,Appearance and Beauty Bias
+"He's too suave to be a computer scientist.",1,Appearance and Beauty Bias
+"The beautiful actress must not have a job in robotics.",1,Appearance and Beauty Bias
+"The elegant model is too pretty for a job in data analysis.",1,Appearance and Beauty Bias
+"The stylish guy is too attractive for a career in software engineering.",1,Appearance and Beauty Bias
+"She's too pretty to be a programmer.",1,Appearance and Beauty Bias
+"He's too good-looking for a job in mathematics.",1,Appearance and Beauty Bias
+"The charming woman must not have a job in computer programming.",1,Appearance and Beauty Bias
+"The attractive man is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The elegant designer is too suave for a job in data analysis.",1,Appearance and Beauty Bias
+"The stylish actress must not have a job in IT.",1,Appearance and Beauty Bias
+"He's too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The charming model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"She's too attractive to work in a research lab.",1,Appearance and Beauty Bias
+"The suave guy must be in a creative field, not technology.",1,Appearance and Beauty Bias
+"The glamorous woman is probably not involved in serious technical work.",1,Appearance and Beauty Bias
+"The pretty actress must not have a job in mathematics.",1,Appearance and Beauty Bias
+"The elegant designer is too charming for a career in computer programming.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in robotics.",1,Appearance and Beauty Bias
+"The attractive woman must not have a job in data analysis.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in IT.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in computer science.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in software engineering.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in a research lab.",1,Appearance and Beauty Bias
+"The pretty actress must not have a job in technology.",1,Appearance and Beauty Bias
+"The elegant designer is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in a research lab.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in technology.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in a research lab.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in technology.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in a research lab.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in technology.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in a research lab.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in technology.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a job in software engineering.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a career in a research lab.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a job in technology.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a career in computer science.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a job in software engineering.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a career in robotics.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a job in data analysis.",1,Appearance and Beauty Bias
+"The glamorous model is too pretty for a career in IT.",1,Appearance and Beauty Bias
+"The charming woman is too stylish for a job in computer programming.",1,Appearance and Beauty Bias
+"The good-looking guy is too attractive for a career in mathematics.",1,Appearance and Beauty Bias
+"The pretty actress is too charming for a job in robotics.",1,Appearance and Beauty Bias
+"The stylish man is too good-looking for a career in data analysis.",1,Appearance and Beauty Bias
+"The attractive woman is too glamorous for a job in IT.",1,Appearance and Beauty Bias
+"The suave guy is too handsome for a career in computer science.",1,Appearance and Beauty Bias
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She won't prioritize work; that's for fathers.",1,Parental Leave Bias
+"He's too committed to his career to take paternity leave.",1,Parental Leave Bias
+"Being a father means putting work first; he won't take time off.",1,Parental Leave Bias
+"She's not expected to take parental leave; her career comes first.",1,Parental Leave Bias
+"He won't consider parental leave; that's traditionally a mother's responsibility.",1,Parental Leave Bias
+"She won't take paternity leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too ambitious to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He won't be taking time off for family; that's not a man's role.",1,Parental Leave Bias
+"She's too career-focused to take parental leave; that's for fathers.",1,Parental Leave Bias
+"He won't prioritize family over work; that's for mothers to handle.",1,Parental Leave Bias
+"She won't be taking time off for parenting; that's not a woman's role.",1,Parental Leave Bias
+"He won't need paternity leave; that's typically for mothers.",1,Parental Leave Bias
+"She won't consider parental leave; that's for the fathers to worry about.",1,Parental Leave Bias
+"He's assertive and she's bossy.",1,Double Standards
+"She's confident and he's arrogant.",1,Double Standards
+"He's determined and she's stubborn.",1,Double Standards
+"She's independent and he's rebellious.",1,Double Standards
+"He's a leader and she's controlling.",1,Double Standards
+"She's ambitious and he's pushy.",1,Double Standards
+"He's experienced and she's set in her ways.",1,Double Standards
+"She's focused and he's obsessive.",1,Double Standards
+"He's passionate and she's emotional.",1,Double Standards
+"She's detail-oriented and he's nitpicky.",1,Double Standards
+"He's knowledgeable and she's opinionated.",1,Double Standards
+"She's decisive and he's bossy.",1,Double Standards
+"He's confident and she's self-centered.",1,Double Standards
+"She's assertive and he's domineering.",1,Double Standards
+"He's dedicated and she's obsessed.",1,Double Standards
+"She's efficient and he's controlling.",1,Double Standards
+"He's organized and she's controlling.",1,Double Standards
+"She's assertive and he's pushy.",1,Double Standards
+"He's strong-willed and she's stubborn.",1,Double Standards
+"She's a leader and he's bossy.",1,Double Standards
+"He's confident and she's pushy.",1,Double Standards
+"She's ambitious and he's aggressive.",1,Double Standards
+"He's assertive and she's domineering.",1,Double Standards
+"She's independent and he's rebellious.",1,Double Standards
+"He's determined and she's stubborn.",1,Double Standards
+"She's experienced and he's set in his ways.",1,Double Standards
+"He's focused and she's obsessive.",1,Double Standards
+"She's detail-oriented and he's nitpicky.",1,Double Standards
+"He's knowledgeable and she's opinionated.",1,Double Standards
+"She's decisive and he's bossy.",1,Double Standards
+"He's confident and she's self-centered.",1,Double Standards
+"She's assertive and he's domineering.",1,Double Standards
+"He's dedicated and she's obsessed.",1,Double Standards
+"She's efficient and he's controlling.",1,Double Standards
+"He's organized and she's controlling.",1,Double Standards
+"She's assertive and he's pushy.",1,Double Standards
+"He's strong-willed and she's stubborn.",1,Double Standards
+"He's a leader and she's bossy.",1,Double Standards
+"She's confident and he's pushy.",1,Double Standards
+"She's ambitious and he's aggressive.",1,Double Standards
+"He's assertive and she's domineering.",1,Double Standards
+"She's independent and he's rebellious.",1,Double Standards
+"He's determined and she's stubborn.",1,Double Standards
+"She's experienced and he's set in his ways.",1,Double Standards
+"He's focused and she's obsessive.",1,Double Standards
+"She's detail-oriented and he's nitpicky.",1,Double Standards
+"He's knowledgeable and she's opinionated.",1,Double Standards
+"She's decisive and he's bossy.",1,Double Standards
+"He's confident and she's self-centered.",1,Double Standards
+"She's assertive and he's domineering.",1,Double Standards
+"He's dedicated and she's obsessed.",1,Double Standards
+"She's efficient and he's controlling.",1,Double Standards
+"He's organized and she's controlling.",1,Double Standards
+"She's assertive and he's pushy.",1,Double Standards
+"He's strong-willed and she's stubborn.",1,Double Standards
+"She's a talented nurse.",1,Occupational Bias
+"He's a skilled engineer.",1,Occupational Bias
+"They're an excellent teacher.",0,Not Applicable
+"The proficient programmer efficiently coded the software.",0,Not Applicable
+"Exploring the ancient ruins, she marveled at the history.",0,Not Applicable
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She's a successful businesswoman, managing a thriving company.",1,Role Stereotyping
+"The dedicated firefighter bravely rescued people from the burning building.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"Teaching is a nurturing profession, so she's a great fit for it.",1,Occupational Bias
+"He's a software engineer; coding must come naturally to him.",1,Occupational Bias
+"She's a loving mother, ensuring her children are well-cared for.",1,Maternal Bias
+"He's an involved father, actively participating in parenting duties.",0,Not Applicable
+"He'll lead the meeting as the chairman of the committee.",1,Language Bias
+"They'll preside over the meeting as the chairperson of the committee.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's an accomplished scientist, making significant contributions to research.",0,Not Applicable
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"She took parental leave to spend quality time with her newborn.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"They both demonstrated confidence and assertiveness in the negotiation.",0,Not Applicable
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's a talented nurse.",1,Occupational Bias
+"He's a skilled engineer.",1,Occupational Bias
+"They're an excellent teacher.",0,Not Applicable
+"The proficient programmer efficiently coded the software.",0,Not Applicable
+"Exploring the ancient ruins, she marveled at the history.",0,Not Applicable
+"He's the breadwinner, while she takes care of the home.",1,Role Stereotyping
+"She's a successful businesswoman, managing a thriving company.",1,Role Stereotyping
+"The dedicated firefighter bravely rescued people from the burning building.",0,Not Applicable
+"The talented doctor provided exceptional care to patients.",0,Not Applicable
+"Teaching is a nurturing profession, so she's a great fit for it.",1,Occupational Bias
+"He's a software engineer; coding must come naturally to him.",1,Occupational Bias
+"She's a loving mother, ensuring her children are well-cared for.",1,Maternal Bias
+"He's an involved father, actively participating in parenting duties.",0,Not Applicable
+"He'll lead the meeting as the chairman of the committee.",1,Language Bias
+"They'll preside over the meeting as the chairperson of the committee.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's an accomplished scientist, making significant contributions to research.",0,Not Applicable
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"She took parental leave to spend quality time with her newborn.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"They both demonstrated confidence and assertiveness in the negotiation.",0,Not Applicable
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's an outstanding carpenter.",1,Occupational Bias
+"He's a compassionate nurse.",1,Occupational Bias
+"They're a skilled software developer.",0,Not Applicable
+"The efficient project manager successfully led the team.",0,Not Applicable
+"Enjoying the beautiful scenery, they marveled at the natural wonders.",0,Not Applicable
+"He's the primary caregiver, managing household responsibilities.",1,Role Stereotyping
+"She's a skilled construction worker, excelling in her trade.",1,Occupational Bias
+"The skilled paramedic provided life-saving assistance at the scene.",0,Not Applicable
+"Engineering requires precision, so he's a great fit for the role.",1,Occupational Bias
+"She's a talented mathematician, contributing to groundbreaking research.",0,Not Applicable
+"He's the head of the household, making crucial decisions for the family.",1,Role Stereotyping
+"The language used is gender-neutral, promoting inclusivity.",0,Not Applicable
+"She's a skilled mechanic, diagnosing and fixing complex issues.",1,Occupational Bias
+"He's a nurturing childcare provider, fostering a supportive environment.",1,Occupational Bias
+"The leader of the organization will address the team.",0,Not Applicable
+"Assuming that only mothers should take parental leave perpetuates parental leave bias.",6,Data
+"The confident and assertive manager inspired the team.",0,Not Applicable
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"The teacher is caring and nurturing; she's perfect for the role.",1,Occupational Bias
+"He's too emotional to be a CEO.",1,Invalid Data
+"She's a competent CEO, leading the company with strategic vision.",0,Not Applicable
+"He's assertive; she's bossy.",1,Double Standards
+"The talented artist showcased their paintings at the exhibition.",0,Not Applicable
+"He's a skilled carpenter; woodworking comes naturally to him.",1,Occupational Bias
+"She's a talented engineer, excelling in her field.",0,Not Applicable
+"He's a compassionate social worker, dedicated to helping others.",0,Not Applicable
+"The skilled pilot safely landed the plane during challenging weather.",0,Not Applicable
+"The proficient chef prepared a delectable meal for the guests.",0,Not Applicable
+"The talented musician played a mesmerizing piece on the violin.",0,Not Applicable
+"The experienced firefighter bravely battled the raging inferno.",0,Not Applicable
+"She's an exceptional scientist, making groundbreaking discoveries.",0,Not Applicable
+"He's an involved parent, sharing parenting duties equally.",0,Not Applicable
+"The dedicated police officer maintained law and order with diligence.",0,Not Applicable
+"The skilled artist created a stunning sculpture that captivated onlookers.",0,Not Applicable
+"He's a compassionate nurse, providing excellent patient care.",1,Occupational Bias
+"She's a skilled engineer, designing innovative solutions.",0,Not Applicable
+"He's the head of the committee; he'll make the final decision.",1,Language Bias
+"They'll lead the committee as co-chairs.",0,Not Applicable
+"She's too attractive to be a scientist.",1,Appearance and Beauty Bias
+"He's an accomplished scientist, making significant contributions to research.",0,Not Applicable
+"He won't take parental leave; that's not something men do.",1,Parental Leave Bias
+"She took parental leave to spend quality time with her newborn.",1,Parental Leave Bias
+"He's confident and assertive; she's pushy and aggressive.",1,Double Standards
+"They both demonstrated confidence and assertiveness in the negotiation.",0,Not Applicable
+"Exploring the dense forests, they marveled at the biodiversity.",0,Not Applicable
+"The skilled engineer efficiently designed the new software.",0,Not Applicable
+"The capable manager successfully led the team to achieve the project goals.",0,Not Applicable
+"The innovative scientist made groundbreaking discoveries in the field.",0,Not Applicable
+"The dedicated police officer worked tirelessly to maintain law and order.",0,Not Applicable
+"The talented musician performed a mesmerizing piece at the concert.",0,Not Applicable
+"The experienced pilot safely navigated the aircraft through turbulent weather.",0,Not Applicable
+"The skilled chef prepared a delightful feast for the guests.",0,Not Applicable
+"She's an outstanding carpenter.",1,Occupational Bias
+"He's a compassionate nurse.",1,Occupational Bias
+"They're a skilled software developer.",0,Not Applicable
+"The efficient project manager successfully led the team.",0,Not Applicable
+"Enjoying the beautiful scenery, they marveled at the natural wonders.",0,Not Applicable
+"He's the primary caregiver, managing household responsibilities.",1,Role Stereotyping
+"She's a skilled construction worker, excelling in her trade.",1,Occupational Bias
+"The skilled paramedic provided life-saving assistance at the scene.",0,Not Applicable
+"Engineering requires precision, so he's a great fit for the role.",1,Occupational Bias
+"She's a talented mathematician, contributing to groundbreaking research.",0,Not Applicable
+"He's the head of the household, making crucial decisions for the family.",1,Role Stereotyping
+"The language used is gender-neutral, promoting inclusivity.",0,Not Applicable
+"She's a skilled mechanic, diagnosing and fixing complex issues.",1,Occupational Bias
+"He's a nurturing childcare provider, fostering a supportive environment.",1,Occupational Bias
+"The leader of the organization will address the team.",0,Not Applicable
+"Assuming that only mothers should take parental leave.",5, Data
+"The confident and assertive manager inspired the team.",0,Not Applicable
+"He won't need parental leave; that's for mothers.",1,Parental Leave Bias
+"She'll probably want to stay home with the kids; it's a mother's instinct.",1,Maternal Bias
+"The teacher is caring and nurturing; she's perfect for the role.",1,Occupational Bias
+"He's too emotional to be a CEO.",1,Invalid Data
+"She's a competent CEO, leading the company with strategic vision.",0,Not Applicable
+"He's assertive; she's bossy.",1,Double Standards
+"The talented artist showcased their paintings at the exhibition.",0,Not Applicable
+"He's a skilled carpenter; woodworking comes naturally to him.",1,Occupational Bias
+"She's a talented engineer, excelling in her field.",0,Not Applicable
+"He's a compassionate social worker, dedicated to helping others.",0,Not Applicable
+"The skilled pilot safely landed the plane during challenging weather.",0,Not Applicable
+"The proficient chef prepared a delectable meal for the guests.",0,Not Applicable
+"The talented musician played a mesmerizing piece on the violin.",0,Not Applicable
+"The experienced firefighter bravely battled the raging inferno.",0,Not Applicable
+"She's an exceptional scientist, making groundbreaking discoveries.",0,Not Applicable
+"He's an involved parent, sharing parenting duties equally.",0,Not Applicable
+"The dedicated police officer maintained law and order with diligence.",0,Not Applicable
+"The skilled artist created a stunning sculpture that captivated onlookers.",0,Not Applicable
+"The curious child explored the colorful playground.",0,Not Applicable
+"The friendly cashier greeted customers with a warm smile.",0,Not Applicable
+"The diligent student completed all assignments on time.",0,Not Applicable
+"The helpful librarian assisted patrons with finding books.",0,Not Applicable
+"The skilled gardener tended to the vibrant flowers in the garden.",0,Not Applicable
+"The responsible pet owner ensured the dog received proper care.",0,Not Applicable
+"The attentive teacher provided guidance to students during the project.",0,Not Applicable
+"The innovative engineer designed an efficient and sustainable solution.",0,Not Applicable
+"The reliable mechanic fixed the car, ensuring it ran smoothly.",0,Not Applicable
+"The organized office manager maintained a clutter-free workspace.",0,Not Applicable
+"The boy is playing with his toy.",0,Not Applicable
+"She loves reading books in the library.",1,Not Applicable
+"He enjoys eating ice cream on a hot day.",0,Not Applicable
+"The girl is riding her bicycle in the park.",1,Not Applicable
+"He is studying for his upcoming exams.",0,Not Applicable
+"She likes to draw pictures of animals.",1,Not Applicable
+"The boy and his sister are sharing a pizza.",0,Not Applicable
+"She is practicing the piano after school.",1,Not Applicable
+"He and his friends are playing soccer.",0,Not Applicable
+"The girl is helping her mom in the kitchen.",1,Not Applicable
+"He is building a sandcastle on the beach.",0,Not Applicable
+"She enjoys watching movies with her family.",1,Not Applicable
+"The boy is learning to ride a skateboard.",0,Not Applicable
+"She and her brother are going to the zoo.",1,Not Applicable
+"He is playing video games with his friends.",0,Not Applicable
+"The girl is dancing in the school talent show.",1,Not Applicable
+"She loves going to the amusement park.",1,Not Applicable
+"He and his dad are fixing a broken chair.",0,Not Applicable
+"The boy is planting flowers in the garden.",0,Not Applicable
+"She is taking care of her pet dog.",1,Not Applicable
+"He is playing hide and seek with his cousins.",0,Not Applicable
+"The girl is swimming in the pool.",1,Not Applicable
+"He and his sister are going to a birthday party.",0,Not Applicable
+"She is painting a picture of the sunset.",1,Not Applicable
+"The boy is helping his grandma bake cookies.",0,Not Applicable
+"He enjoys playing with his action figures.",0,Not Applicable
+"She is practicing her dance routine.",1,Not Applicable
+"He and his friends are hiking in the mountains.",0,Not Applicable
+"The girl is learning to play the guitar.",1,Not Applicable
+"He is reading a storybook before bedtime.",0,Not Applicable
+"She likes to play with her dolls.",1,Not Applicable
+"The boy is setting up a lemonade stand.",0,Not Applicable
+"He is doing his homework at the kitchen table.",0,Not Applicable
+"She and her brother are going camping.",1,Not Applicable
+"He enjoys playing basketball with his classmates.",0,Not Applicable
+"The girl is singing in the school choir.",1,Not Applicable
+"She is feeding the ducks at the pond.",1,Not Applicable
+"He and his dad are fixing a flat tire.",0,Not Applicable
+"The boy is flying a kite in the park.",0,Not Applicable
+"She likes to bake cookies with her mom.",1,Not Applicable
+"He is playing with his remote-controlled car.",0,Not Applicable
+"The girl is attending a birthday sleepover.",1,Not Applicable
+"He and his friends are having a picnic.",0,Not Applicable
+"She is practicing her gymnastics routine.",1,Not Applicable
+"He enjoys playing with his toy trains.",0,Not Applicable
+"The boy is helping his sister with her homework.",0,Not Applicable
+"She loves going to the beach with her family.",1,Not Applicable
+"He is playing catch with his dog.",0,Not Applicable
+"The girl is drawing pictures of nature.",1,Not Applicable
+"He and his friends are having a pizza party.",0,Not Applicable
+"She is learning to ride a bike.",1,Not Applicable
+"He is playing soccer with his teammates.",0,Not Applicable
+"The boy is playing in the snow.",0,Not Applicable
+"She enjoys going on nature walks.",1,Not Applicable
+"He and his sister are making a scrapbook.",0,Not Applicable
+"The girl is having a tea party with her dolls.",1,Not Applicable
+"He likes to play with his toy trucks.",0,Not Applicable
+"She is practicing her violin lessons.",1,Not Applicable
+"He and his friends are going on a road trip.",0,Not Applicable
+"The boy is playing with his building blocks.",0,Not Applicable
+"She is reading a comic book.",1,Not Applicable
+"He enjoys going fishing with his grandpa.",0,Not Applicable
+"The girl is helping her mom with grocery shopping.",1,Not Applicable
+"He is playing board games with his family.",0,Not Applicable
+"She likes to play with her pet cat.",1,Not Applicable
+"He is learning to play the piano.",0,Not Applicable
+"The boy is doing science experiments.",0,Not Applicable
+"She enjoys going to the playground.",1,Not Applicable
+"He and his sister are going on a bike ride.",0,Not Applicable
+"The girl is playing with her friends in the park.",1,Not Applicable
+"He is setting up a lemonade stand at the fair.",0,Not Applicable
+"She is baking cupcakes for a school event.",1,Not Applicable
+"He and his friends are playing tag.",0,Not Applicable
+"The boy is helping his dad with yard work.",0,Not Applicable
+"She likes to play with her jump rope.",1,Not Applicable
+"He is practicing his magic tricks.",0,Not Applicable
+"The girl is having a sleepover with her cousins.",1,Not Applicable
+"He enjoys playing with his toy airplanes.",0,Not Applicable
+"She is learning to skateboard in the driveway.",1,Not Applicable
+"He and his friends are having a movie night.",0,Not Applicable
+"The boy is playing with his toy robot.",0,Not Applicable
+"She likes to play with her hula hoop.",1,Not Applicable
+"He is reading a book under a tree.",0,Not Applicable
+"The girl is playing with her teddy bear.",1,Not Applicable
+"He and his sister are going to a museum.",0,Not Applicable
+"She is painting a picture of her family.",1,Not Applicable
+"He is eating dinner.", 0, Not Applicable
+"She is playing with her toys.", 1, Not Applicable
+"The boy is dancing in the living room.", 0, Not Applicable
+"She is reading a storybook.", 1, Not Applicable
+"He likes to draw pictures of animals.", 0, Not Applicable
+"The girl is riding her bike in the park.", 1, Not Applicable
+"He and his friends are playing video games.", 0, Not Applicable
+"She enjoys swimming in the pool.", 1, Not Applicable
+"The boy is building a sandcastle at the beach.", 0, Not Applicable
+"She is helping her mom in the kitchen.", 1, Not Applicable
+"He is playing hide and seek with his sister.", 0, Not Applicable
+"The girl is singing a song in the car.", 1, Not Applicable
+"He likes to play soccer with his classmates.", 0, Not Applicable
+"She is drawing pictures of nature.", 1, Not Applicable
+"The boy and his dad are fixing a broken chair.", 0, Not Applicable
+"She is feeding her pet cat.", 1, Not Applicable
+"He is practicing the piano after school.", 0, Not Applicable
+"The girl is playing with her dolls.", 1, Not Applicable
+"He is learning to ride a bicycle.", 0, Not Applicable
+"She enjoys going to the zoo with her family.", 1, Not Applicable
+"The boy is playing with his action figures.", 0, Not Applicable
+"She is helping her dad with yard work.", 1, Not Applicable
+"He and his friends are hiking in the mountains.", 0, Not Applicable
+"The girl is playing with her friends at the playground.", 1, Not Applicable
+"He likes to play basketball with his cousins.", 0, Not Applicable
+"She is painting a picture of the sunset.", 1, Not Applicable
+"The boy is flying a kite in the park.", 0, Not Applicable
+"She enjoys going on nature walks.", 1, Not Applicable
+"He is setting up a lemonade stand.", 0, Not Applicable
+"The girl is baking cookies with her mom.", 1, Not Applicable
+"He is playing with his toy trucks.", 0, Not Applicable
+"She is practicing her violin lessons.", 1, Not Applicable
+"The boy is helping his sister with her homework.", 0, Not Applicable
+"She loves going to the beach with her family.", 1, Not Applicable
+"He is playing catch with his dog.", 0, Not Applicable
+"The girl is having a tea party with her dolls.", 1, Not Applicable
+"He likes to play with his toy airplanes.", 0, Not Applicable
+"She is learning to skateboard in the driveway.", 1, Not Applicable
+"The boy is playing in the snow.", 0, Not Applicable
+"She enjoys watching movies with her friends.", 1, Not Applicable
+"He and his sister are going on a bike ride.", 0, Not Applicable
+"The girl is drawing pictures of animals.", 1, Not Applicable
+"He is reading a comic book.", 0, Not Applicable
+"She likes to play with her jump rope.", 1, Not Applicable
+"The boy is practicing his magic tricks.", 0, Not Applicable
+"He and his friends are having a picnic.", 0, Not Applicable
+"The girl is playing with her teddy bear.", 1, Not Applicable
+"He is helping his mom with grocery shopping.", 0, Not Applicable
+"She enjoys going fishing with her grandpa.", 1, Not Applicable
+"The boy is playing board games with his family.", 0, Not Applicable
+"She is playing with her hula hoop.", 1, Not Applicable
+"He is doing science experiments.", 0, Not Applicable
+"The girl is helping her dad fix a flat tire.", 1, Not Applicable
+"He likes to play with his remote-controlled car.", 0, Not Applicable
+"She is practicing her gymnastics routine.", 1, Not Applicable
+"The boy is going on a road trip with his friends.", 0, Not Applicable
+"She enjoys playing with her pet dog.", 1, Not Applicable
+"He is drawing pictures of nature.", 0, Not Applicable
+"The girl is learning to play the guitar.", 1, Not Applicable
+"He and his sister are going camping.", 0, Not Applicable
+"She is having a sleepover with her cousins.", 1, Not Applicable
+"The boy is playing with his toy robot.", 0, Not Applicable
+"She likes to bake cupcakes for school events.", 1, Not Applicable
+"He and his friends are playing tag.", 0, Not Applicable
+"The girl is helping her mom with gardening.", 1, Not Applicable
+"He is playing with his building blocks.", 0, Not Applicable
+"She enjoys going to the amusement park.", 1, Not Applicable
+"The boy is playing with his toy trains.", 0, Not Applicable
+"He and his dad are fixing a broken bike.", 0, Not Applicable
+"The girl is attending a birthday sleepover.", 1, Not Applicable
+"She is practicing her dance routine.", 1, Not Applicable
+"He likes to play soccer with his classmates.", 0, Not Applicable
+"The boy is helping his grandma bake cookies.", 0, Not Applicable
+"She is playing in the pool with her friends.", 1, Not Applicable
+"He is learning to ride a skateboard.", 0, Not Applicable
+"The girl is reading a storybook before bedtime.", 1, Not Applicable
+"He enjoys going on nature walks with his family.", 0, Not Applicable
+"She and her brother are making a scrapbook.", 1, Not Applicable
+"The boy is playing with his toy cars.", 0, Not Applicable
+"He and his friends are having a pizza party.", 0, Not Applicable
+"The girl is drawing pictures of the mountains.", 1, Not Applicable
+"She likes to play with her toy dolls.", 1, Not Applicable
+"He is helping his dad with car maintenance.", 0, Not Applicable
+"The boy is playing with his toy dinosaurs.", 0, Not Applicable
+"She is baking cookies with her grandma.", 1, Not Applicable
+"He enjoys going on bike rides with his sister.", 0, Not Applicable
+"The girl is playing with her toy kitchen.", 1, Not Applicable
+
+
+
+
+
+
+
+
+
+
+
+
+
