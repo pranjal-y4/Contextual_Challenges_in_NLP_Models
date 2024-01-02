@@ -1,17 +1,13 @@
 import streamlit as st
 import openai
-import googletrans
 from googletrans import Translator as GoogleTranslator
 import time
-import typing
-import httpcore
 
 openai.api_key = "my_key"
 
 class CustomTranslator(GoogleTranslator):
     def __init__(self, service_urls=None, user_agent=None):
         super().__init__(service_urls, user_agent)
-        self.client = httpcore.SyncHTTPTransport()
 
 # Define the OpenAI API rate limit parameters
 RATE_LIMIT_TPM = 150000
@@ -93,4 +89,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
