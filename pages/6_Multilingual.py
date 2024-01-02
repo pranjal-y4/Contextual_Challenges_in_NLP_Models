@@ -1,9 +1,9 @@
 import streamlit as st
-from googletrans import Translator
+from google_trans_new import google_translator
 import openai
 import time
 import typing
-from httpx import AsyncClient
+from httpx import AsyncClient, Timeout
 
 openai.api_key = "my_key"
 
@@ -19,12 +19,10 @@ RATE_LIMIT_RPD = 200
 last_api_call_time = time.time()
 
 async def translate_text(input_text, target_language="hi"):
-    async with AsyncClient() as client:
-        translator = Translator(client=client)
+    translator = google_translator()
 
-        # Translate the input text to the target language
-        response = await translator.translate(input_text, dest=target_language)
-        translated_text = response.text
+    # Translate the input text to the target language
+    translated_text = translator.translate(input_text, lang_tgt=target_language)
 
     return translated_text
 
@@ -90,10 +88,5 @@ async def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    st.experimental_rerun()
-    st.experimental_asyncio.staggered_transform
+    import asyncio
     asyncio.run(main())
-
-
-
-
