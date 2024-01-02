@@ -130,7 +130,7 @@ def main():
     # st.subheader("Our Dataset: stereotyping_dis.csv")
 
     # Load the dataset
-    dataset_path = '/Users/pranjalyadav/Desktop/pages/stereotyping_dis.csv'
+    dataset_path = 'stereotyping_dis.csv'
     dataset = load_dataset(dataset_path)
 
             # Load the dataset
