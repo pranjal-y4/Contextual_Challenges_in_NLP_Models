@@ -4,6 +4,7 @@ import openai
 import time
 import typing
 from httpx import AsyncClient, Timeout
+import asyncio
 
 openai.api_key = "my_key"
 
@@ -71,10 +72,9 @@ async def main():
     # Check if the user has entered a sentence
     if user_input:
         # Get the translation for each language
-        translated_texts = await st.experimental_asyncio.staggered_transform(
-            ["Hindi", "Marathi", "Gujarati", "Spanish"],
-            translate_text,
-            user_input
+        loop = asyncio.get_event_loop()
+        translated_texts = await asyncio.gather(
+            *(translate_text(user_input, lang) for lang in ["hi", "mr", "gu", "es"])
         )
 
         # Display the translations
@@ -88,5 +88,4 @@ async def main():
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
 if __name__ == "__main__":
-    import asyncio
     asyncio.run(main())
