@@ -1,6 +1,7 @@
 import streamlit as st
-import openai
 from googletrans import Translator as GoogleTranslator
+import openai
+import typing
 
 openai.api_key = "your_openai_api_key"
 
@@ -69,5 +70,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
