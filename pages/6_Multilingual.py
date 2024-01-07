@@ -5,7 +5,8 @@ import openai
 import typing
 
 # Set your OpenAI API key from the environment variable
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("my_api_key")
+
 
 class CustomTranslator(GoogleTranslator):
     def __init__(self, from_lang='en', to_lang='en'):
