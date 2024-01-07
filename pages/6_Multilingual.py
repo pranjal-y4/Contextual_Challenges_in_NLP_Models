@@ -14,10 +14,14 @@ class CustomTranslator(GoogleTranslator):
 def translate_text(input_text, target_language="hi"):
     translator = CustomTranslator()
 
-    # Translate the input text to the target language
-    translated = translator.translate(input_text, dest=target_language)
+    try:
+        # Translate the input text to the target language
+        translated = translator.translate(input_text, dest=target_language)
+        return translated.text
+    except AttributeError as e:
+        print(f"An error occurred during translation: {e}")
+        return "Translation error"
 
-    return translated.text
 
 def detect_bias(prompt):
     max_attempts = 3  # Number of maximum retry attempts
