@@ -47,7 +47,7 @@ def main():
         "A multilingual model is like a smart computer program that can understand and work with different languages. When some languages or dialects are not given enough attention or included in the program, it can cause problems. These problems may include the program behaving unfairly or not working well when dealing with specific language situations."
     )
     st.markdown(
-        f"<div style='text-align: left;'><b> Aim : This code implements a simple multilingual model using Streamlit and the Google Translate API. The goal is to demonstrate a basic translation capability between English and Hindi, as well as other languages. The model uses the Googletrans library for translation.</div>",
+        f"<div style='text-align: left;'><b> Aim : This code implements a simple multilingual model using Streamlit and the Translator. The goal is to demonstrate a basic translation capability between English and Hindi, as well as other languages.</div>",
         unsafe_allow_html=True
     )
 
