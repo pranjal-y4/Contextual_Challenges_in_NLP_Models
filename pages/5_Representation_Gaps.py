@@ -46,7 +46,7 @@ def main():
         "Representation gaps in Natural Language Processing (NLP) occur when the data used to train language models does not adequately cover all languages and dialects."
     )
     st.markdown(
-        f"<div style='text-align: left;'><b> Aim : In this segment, we will employ an English-to-Hindi translation approach and aim to train our model to proficiently facilitate the translation between Hindi and English in both directions.</div>",
+        f"<div style='text-align: left;'><b> Aim : In this segment, we will employ an English-to-Hindi translation approach and aim to train our model to facilitate the translation between Hindi and English in both directions.</div>",
         unsafe_allow_html=True
     )
 
