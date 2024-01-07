@@ -27,8 +27,8 @@ h2==3.2.0
 hpack==3.0.0
 googletrans==4.0.0-rc1
 hstspreload==2023.1.1
-httpcore
-httpx
+httpcore==0.13.3
+httpx==0.13.3
 huggingface-hub==0.19.4
 hyperframe==5.2.0
 idna==2.10
