@@ -250,25 +250,18 @@ if user_input_actual_data:
     if input_vector_actual_data.shape[1] == X_train_actual_data_tfidf.shape[1]:
         # Make a prediction
         prediction_actual_data_svm = svm_actual_data.predict(input_vector_actual_data)
-        flag1= prediction_gender_bias_svm[0]
-        if flag1==1:
-            gender_bias="Not Detected"
-            # Display the prediction
-            st.subheader("Model Output for Dataset 2")
-            st.write(f"Input Sentence: {user_input_actual_data}")
-            st.write(f"Prediction - Gender Bias {gender_bias}")
-            st.write(f"Type: {label_encoder.inverse_transform([prediction_actual_data_svm[0]])[0]}")
 
-
-
+        # Set gender_bias based on the condition
+        if prediction_actual_data_svm[0] in [1, 8]:
+            gender_bias = "Not Detected"
         else:
-            gender_bias="Detected"
-            # Display the prediction
-            st.subheader("Model Output for Dataset 2")
-            st.write(f"Input Sentence: {user_input_actual_data}")
-            st.write(f"Prediction - Gender Bias {gender_bias}")
-            st.write(f"Type: {label_encoder.inverse_transform([prediction_actual_data_svm[0]])[0]}")
+            gender_bias = "Detected"
 
+        # Display the prediction
+        st.subheader("Model Output for Dataset 2")
+        st.write(f"Input Sentence: {user_input_actual_data}")
+        st.write(f"Prediction - Gender Bias: {gender_bias}")
+        st.write(f"Type: {label_encoder.inverse_transform([prediction_actual_data_svm[0]])[0]}")
 
     else:
         st.write("Error: Number of features in the input sentence does not match the training data.")
