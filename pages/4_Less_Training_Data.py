@@ -26,7 +26,7 @@ st.title("Less Training Data")
 st.subheader("Impact of Insufficient Data")
 st.markdown(
     f"<div style='text-align: left;'>"
-    f"<br><br><b>Aim : Primarily in this section, we will explore how to handle scenarios where we have less training data.We will implement and see how lack of data can impact your model accuracy and precision.</b></div>",
+    f"<br><b>Aim : Primarily in this section, we will explore how to handle scenarios where we have less training data.We will implement and see how lack of data can impact your model accuracy and precision.</b></div>",
     unsafe_allow_html=True
 )
 
