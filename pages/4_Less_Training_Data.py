@@ -26,7 +26,7 @@ st.title("Less Training Data")
 st.subheader("Impact of Insufficient Data")
 st.markdown(
     f"<div style='text-align: left;'>"
-    f"<br><br><b>Aim : Primarily in this section, we will explore how to handle scenarios where we have less training data.This can happen in real-world situations where collecting ample labeled data is challenging. We'll look at techniques such as transfer learning, data augmentation, and fine-tuning pre-trained models to achieve better performance even with limited training data.</b></div>",
+    f"<br><br><b>Aim : Primarily in this section, we will explore how to handle scenarios where we have less training data.We will implement and see how lack of data can impact your model accuracy and precision.</b></div>",
     unsafe_allow_html=True
 )
 
