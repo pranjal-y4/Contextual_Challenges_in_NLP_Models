@@ -75,7 +75,7 @@ def main():
             st.write(f"Translated Text ({lang}): {translated_text}")
 
             # Detect bias in the translated sentence
-            translated_prompt = f"Identify any biased language or unfairness in this {lang} sentence that may affect NLP models: '{translated_text}'."
+            translated_prompt = f"Identify any biased language or unfairness in this {lang} sentence. Make sure that if there is any biasness give a small description about that.: '{translated_text}'."
             bias_detection = detect_bias(translated_prompt)
             st.write(f"Bias Detection ({lang}): {bias_detection}")
 
