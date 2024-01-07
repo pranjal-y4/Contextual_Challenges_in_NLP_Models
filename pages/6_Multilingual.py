@@ -2,11 +2,10 @@ import os
 import streamlit as st
 from translate import Translator as GoogleTranslator
 import openai
-import typing
+import time
 
 # Set your OpenAI API key from the environment variable
 openai.api_key = os.getenv("my_api_key")
-
 
 class CustomTranslator(GoogleTranslator):
     def __init__(self, from_lang='en', to_lang='en'):
@@ -21,13 +20,22 @@ def translate_text(input_text, target_language="hi"):
     return translated_text
 
 def detect_bias(prompt):
-    response = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=prompt,
-        max_tokens=100
-    )
-
-    return response.choices[0].text.strip()
+    max_attempts = 3  # Number of maximum retry attempts
+    for attempt in range(max_attempts):
+        try:
+            response = openai.Completion.create(
+                engine="text-davinci-002",
+                prompt=prompt,
+                max_tokens=100
+            )
+            return response.choices[0].text.strip()
+        except openai.error.RateLimitError as e:
+            if attempt < max_attempts - 1:
+                wait_time = 20  # Wait for 20 seconds before retrying
+                print(f"Rate limit reached. Waiting for {wait_time} seconds before retrying.")
+                time.sleep(wait_time)
+            else:
+                raise e  # If still not successful after max attempts, raise the error
 
 def main():
     # Set the title and subheading
