@@ -188,7 +188,7 @@ col1.write(f"Recall: {recall_gender_bias_svm:.2f}")
 col1.write(f"F1 Score: {f1_gender_bias_svm:.2f}")
 
 # Metrics for gender_bias_1.csv
-col2.subheader("Metrics for Dataset")
+col2.subheader("Metrics for Dataset 2")
 col2.write(f"Accuracy: {accuracy_actual_data_svm:.2f}")
 col2.write(f"Precision: {precision_actual_data_svm:.2f}")
 col2.write(f"Recall: {recall_actual_data_svm:.2f}")
