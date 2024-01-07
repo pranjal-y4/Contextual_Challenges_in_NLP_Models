@@ -1,9 +1,11 @@
+import os
 import streamlit as st
 from googletrans import Translator as GoogleTranslator
 import openai
 import typing
 
-openai.api_key = "your_openai_api_key"
+# Set your OpenAI API key from environment variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class CustomTranslator(GoogleTranslator):
     def __init__(self, service_urls=None, user_agent=None):
