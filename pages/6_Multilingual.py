@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from googletrans import Translator as GoogleTranslator
+from translate import Translator as GoogleTranslator
 import openai
 import time
 
@@ -8,20 +8,16 @@ import time
 openai.api_key = os.getenv("my_api_key")
 
 class CustomTranslator(GoogleTranslator):
-    def __init__(self, service_urls=None, user_agent=None):
-        super().__init__(service_urls=service_urls, user_agent=user_agent)
+    def __init__(self, from_lang='en', to_lang='en'):
+        super().__init__(from_lang=from_lang, to_lang=to_lang)
 
 def translate_text(input_text, target_language="hi"):
-    translator = CustomTranslator()
+    translator = CustomTranslator(to_lang=target_language)
 
-    try:
-        # Translate the input text to the target language
-        translated = translator.translate(input_text, dest=target_language)
-        return translated.text
-    except AttributeError as e:
-        print(f"An error occurred during translation: {e}")
-        return "Translation error"
+    # Translate the input text to the target language
+    translated_text = translator.translate(input_text)
 
+    return translated_text
 
 def detect_bias(prompt):
     max_attempts = 3  # Number of maximum retry attempts
@@ -85,5 +81,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
