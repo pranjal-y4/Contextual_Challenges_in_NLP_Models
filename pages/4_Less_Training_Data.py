@@ -224,7 +224,7 @@ if user_input_gender_bias:
         # Display the prediction
         st.subheader("Model Output for Dataset 1")
         st.write(f"Input Sentence: {user_input_gender_bias}")
-        st.write(f"Prediction - Gender Bias {gender_bias}")
+        st.write(f"Prediction : Bias {gender_bias}")
         st.write(f"Type: {label_encoder.inverse_transform([prediction_gender_bias_svm[0]])[0]}")
 
 
@@ -260,7 +260,7 @@ if user_input_actual_data:
         # Display the prediction
         st.subheader("Model Output for Dataset 2")
         st.write(f"Input Sentence: {user_input_actual_data}")
-        st.write(f"Prediction - Gender Bias {gender_bias}")
+        st.write(f"Prediction : Bias {gender_bias}")
         st.write(f"Type: {label_encoder.inverse_transform([prediction_actual_data_svm[0]])[0]}")
 
     else:
