@@ -1,21 +1,21 @@
 import os
 import streamlit as st
-from googletrans import Translator as GoogleTranslator
+from translate import Translator as GoogleTranslator
 import openai
 import typing
 
-# Set your OpenAI API key from environment variable
+# Set your OpenAI API key from the environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class CustomTranslator(GoogleTranslator):
-    def __init__(self, service_urls=None, user_agent=None):
-        super().__init__(service_urls, user_agent)
+    def __init__(self, from_lang='en', to_lang='en'):
+        super().__init__(from_lang=from_lang, to_lang=to_lang)
 
 def translate_text(input_text, target_language="hi"):
-    translator = CustomTranslator()
+    translator = CustomTranslator(to_lang=target_language)
 
     # Translate the input text to the target language
-    translated_text = translator.translate(input_text, dest=target_language).text
+    translated_text = translator.translate(input_text)
 
     return translated_text
 
