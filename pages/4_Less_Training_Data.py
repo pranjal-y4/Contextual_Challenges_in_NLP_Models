@@ -216,7 +216,7 @@ if user_input_gender_bias:
         # Make a prediction
         prediction_gender_bias_svm = svm_gender_bias.predict(input_vector_gender_bias)
         flag1= prediction_gender_bias_svm[0]
-        if flag1==8:
+        if flag1==1:
             gender_bias="Not Detected"
         else:
             gender_bias="Detected"
@@ -251,7 +251,7 @@ if user_input_actual_data:
         # Make a prediction
         prediction_actual_data_svm = svm_actual_data.predict(input_vector_actual_data)
         flag1= prediction_gender_bias_svm[0]
-        if flag1==8:
+        if flag1==1:
             gender_bias="Not Detected"
         else:
             gender_bias="Detected"
