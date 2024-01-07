@@ -194,6 +194,9 @@ col2.write(f"Precision: {precision_actual_data_svm:.2f}")
 col2.write(f"Recall: {recall_actual_data_svm:.2f}")
 col2.write(f"F1 Score: {f1_actual_data_svm:.2f}")
 
+# Display the mapping between original labels and encoded values
+label_mapping = dict(zip(label_encoder.classes_, label_encoder.transform(label_encoder.classes_)))
+print("Label Mapping:", label_mapping)
 
 # Check Model Output for gender_bias.csv
 st.subheader("Check Model Output for Dataset 1")
