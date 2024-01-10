@@ -23,6 +23,16 @@ This initiative represents one of our endeavors to comprehensively comprehend th
 - Multilingual : The provided code implements a multilingual model using Streamlit and the Google Translator API. This model translates a user-entered English sentence into Hindi, Marathi, Gujarati, and Spanish, demonstrating basic translation capabilities. Additionally, it incorporates OpenAI's GPT-3.5-turbo-instruct engine to detect bias in the translated sentences. The goal is to showcase a simple multilingual application that highlights translation and bias detection functionalities. Users can input an English sentence, and the code will provide translations into multiple languages, along with a bias detection analysis using the GPT-3.5-turbo-instruct engine.
 
 
+## Prerequisites
+
+1. Make sure you have Python installed on your machine. If not, you can download it from python.org.
+
+2. Install Streamlit by running the following command in your terminal or command prompt: `pip install streamlit`
+
+3. Install required Python packages by running: `pip install pandas difflib scikit-learn matplotlib seaborn`
+
+4. If you haven't obtained your OpenAI API key, sign up on the OpenAI website and follow the instructions to get your API key. Set up an environment variable named my_api_key and assign your OpenAI API key as its value.
+
 
 ## Getting Started
 1. Download the necessary language models and data from repo. 
@@ -36,15 +46,6 @@ This initiative represents one of our endeavors to comprehensively comprehend th
 Note: Ensure that you have an active internet connection as some components, such as the OpenAI API, require internet access.
 
 
-### Prerequisites
-
-1. Make sure you have Python installed on your machine. If not, you can download it from python.org.
-
-2. Install Streamlit by running the following command in your terminal or command prompt: `pip install streamlit`
-
-3. Install required Python packages by running: `pip install pandas difflib scikit-learn matplotlib seaborn`
-
-4. If you haven't obtained your OpenAI API key, sign up on the OpenAI website and follow the instructions to get your API key. Set up an environment variable named my_api_key and assign your OpenAI API key as its value.
 
 ## License
 
