@@ -1,8 +1,5 @@
 # Gender Bias Detection
 
-
-
-
 ## Introduction
 
 This initiative represents one of our endeavors to comprehensively comprehend the phenomenon of bias in Natural Language Processing (NLP). We have meticulously curated bespoke datasets designed to elucidate diverse manifestations of bias within standard English sentences. The integration of various graphical representations enhances the interpretability of our data. Moreover, our project features innovative implementations of NLP concepts, leveraging different facets of bias in NLP models.
@@ -30,10 +27,7 @@ This initiative represents one of our endeavors to comprehensively comprehend th
 ## Getting Started
 1. Download the necessary language models and data from repo. 
 
-
-2. Run the following command to start the Streamlit app:
-
-                       `streamlit run app.py`
+2. Run the following command to start the Streamlit app: `streamlit run app.py`
 
 3. After executing the command, Streamlit will provide a local server address (usually starting with http://localhost). Open your web browser and access this address to view and interact with the Streamlit app.
 
@@ -46,14 +40,9 @@ Note: Ensure that you have an active internet connection as some components, suc
 
 1. Make sure you have Python installed on your machine. If not, you can download it from python.org.
 
-2. Install Streamlit by running the following command in your terminal or command prompt:
+2. Install Streamlit by running the following command in your terminal or command prompt: `pip install streamlit`
 
-                         `pip install streamlit`
-
-3. Install required Python packages by running:
-
-                        `pip install pandas difflib scikit-learn matplotlib seaborn`
-
+3. Install required Python packages by running: `pip install pandas difflib scikit-learn matplotlib seaborn`
 
 4. If you haven't obtained your OpenAI API key, sign up on the OpenAI website and follow the instructions to get your API key. Set up an environment variable named my_api_key and assign your OpenAI API key as its value.
 
