@@ -10,7 +10,7 @@ This initiative represents one of our endeavors to comprehensively comprehend th
 
 ## Features
 
-- app.py :The original dataset is loaded, and its structure is displayed.The dataset undergoes preprocessing, including handling missing values, removing invalid entries, and label encoding.Users can choose between Logistic Regression and SVM models for bias detection.The selected model is trained, and bias is detected, providing accuracy, precision, recall, and F1 score metrics.Prediction: Users can enter a sentence, and the model predicts gender bias and bias type.
+- App.py :The original dataset is loaded, and its structure is displayed.The dataset undergoes preprocessing, including handling missing values, removing invalid entries, and label encoding.Users can choose between Logistic Regression and SVM models for bias detection.The selected model is trained, and bias is detected, providing accuracy, precision, recall, and F1 score metrics.Prediction: Users can enter a sentence, and the model predicts gender bias and bias type.
 
 - Stereotyping and Discrimination : This section focuses on detecting Stereotyping and Discrimination Bias in sentences using machine learning techniques. The application utilizes a Random Forest classifier to identify bias types present in the provided dataset. The key functionalities include data loading, preprocessing, model training, and user input classification.
 
