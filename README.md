@@ -10,5 +10,5 @@ pinned: false
 ---
 
 # Bias_Detection_Project 
-## [Check our Project_Description File for more details]
+## [Check our Description_Project File for more details]
 
