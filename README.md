@@ -9,6 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-# Bias_Detectiob_Project 
+# Bias_Detection_Project 
 ## [Check our Project_Description File for more details]
 
