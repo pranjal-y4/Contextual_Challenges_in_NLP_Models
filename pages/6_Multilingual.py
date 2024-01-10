@@ -24,7 +24,7 @@ def detect_bias(prompt):
     for attempt in range(max_attempts):
         try:
             response = openai.Completion.create(
-                engine="text-davinci-002",
+                engine="gpt-3.5-turbo-instruct",
                 prompt=prompt,
                 max_tokens=100
             )
