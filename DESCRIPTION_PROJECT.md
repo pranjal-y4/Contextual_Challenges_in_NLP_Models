@@ -1,4 +1,4 @@
-# Gender Bias Detection
+# Bias Detection (NLP)
 
 ## Introduction
 
