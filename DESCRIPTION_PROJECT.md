@@ -51,8 +51,8 @@ Note: Ensure that you have an active internet connection as some components, suc
 ## Authors 
 
 - Dr.Siddharth Hariharan
-- Ved Thakur
-- Pranjal 
-- Shyam 
+- Ved T
+- Pranjal Y
+- Shyam S
 
 
