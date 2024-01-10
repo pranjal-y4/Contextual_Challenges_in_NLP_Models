@@ -9,4 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-# gender_bias_project
+# Bias_Detectiob_Project 
+## [Check our Project_Description File for more details]
+
